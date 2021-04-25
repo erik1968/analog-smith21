@@ -62,7 +62,7 @@ sections:
     testimonials:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
-        avatar_alt: JJ's happy pic w/
+        avatar_alt: JJ's happy pic w/funny ears
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
