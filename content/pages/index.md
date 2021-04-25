@@ -57,7 +57,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
-    subtitle: Please share your thoughts
+    subtitle: 'Please share your ideas, thoughts or insights with me'
     col_number: three
     testimonials:
       - author: Sean Salazar
