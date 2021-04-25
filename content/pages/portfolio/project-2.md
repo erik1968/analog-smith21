@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Project II > Board Game Redesign
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
