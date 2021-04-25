@@ -14,7 +14,7 @@ sections:
       becoming a designer >>> so please let me know by smacking that "Let's
       Talk" button above! Thank you!!*
     actions:
-      - label: 'I''m a new designer, wha'
+      - label: Let's Talk
         url: /contact
         style: button
         new_window: false
