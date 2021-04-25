@@ -2,7 +2,7 @@
 title: Project Title 4
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/VI_Product_Box1+2_Tiered-StraightOn+Open-8 copy.png
+thumb_image: images/VelvetInstruments_Redesign-202009304_v3_ess5 copy.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
