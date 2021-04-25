@@ -60,7 +60,7 @@ sections:
     subtitle: 'Please share your ideas, thoughts or insights with me'
     col_number: three
     testimonials:
-      - author: J
+      - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: Sean Salazar's photo
         content: >-
