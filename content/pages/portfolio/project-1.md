@@ -43,7 +43,7 @@ Interactive digital conversion prototype of the existing reference analog toaste
 
 *   A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...
 
-"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+> "Design, don't decorate" -who said this first?
 
 #### **Project Objective ::**
 
