@@ -56,7 +56,7 @@ sections:
       Music Solutions & Integrations
   - section_id: testimonials
     type: section_testimonials
-    title: What
+    title: What on your mind?!
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
