@@ -83,7 +83,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View the News & All Here
+      - label: View Blog
         url: blog
         style: button
 seo:
