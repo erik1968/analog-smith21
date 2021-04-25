@@ -1,5 +1,4 @@
 ---
-title: Project VI >
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/Stewart-SmithErik_HistofDesn-EarliestDesigns_Edited-Ps.jpg
