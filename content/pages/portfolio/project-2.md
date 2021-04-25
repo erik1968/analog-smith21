@@ -1,6 +1,19 @@
 ---
 title: 'Project II > Board Game Redesign [ Triominos ]'
-subtitle: This was
+subtitle: >-
+  This was the perfect UX design project to take all the way to the finish line
+  so to speak.. As it tested and challenged pretty much everything I had learned
+  in college and more, like going from:: flat, 2D packaging dielines to its
+  digital 3D scale equivalents in Adobe Illustrator, then replicate it all to
+  scale with a real folding, magnetic game board+case >> Thanks in good part to
+  a conceptually similar design in production by ChessArmory.com > thank you! >
+  because, it was ChessArmory's overall game board design that allowed me to
+  explore my goal and custom design the magnetic game pieces/tiles, design and
+  print a new surface graphic pattern, and more >> like practice product
+  photography and image processing >> and, then practice dieline+surface
+  graphics print production.. I am so glad I had a project I could explore so
+  many different aspects >> including sub-specialties > that meaning >> within
+  the spheres of UX & UI Design.
 date: '2019-04-30'
 thumb_image: images/TriOminos-Rdsn_GoGOLD_Diagonal-PlayBrd-Bx-View-BlndGrp11_1000x962.jpg
 thumb_image_alt: An orange on a blue background
