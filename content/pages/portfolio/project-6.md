@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: 'Project '
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/Stewart-SmithErik_HistofDesn-EarliestDesigns_Edited-Ps.jpg
