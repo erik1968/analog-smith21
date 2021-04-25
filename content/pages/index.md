@@ -28,7 +28,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: 'What we can do for you::'
     col_number: two
     is_numbered: true
     grid_items:
