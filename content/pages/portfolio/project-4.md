@@ -11,7 +11,7 @@ subtitle: >-
 date: '2019-02-26'
 thumb_image: images/VelvetInstruments_Redesign-202009304_v3_ess5 copy.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/magnificent-tulip.png
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
