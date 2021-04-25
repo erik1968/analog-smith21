@@ -79,7 +79,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: News >>> Tips >> Tricks!
-    subtitle: An optional subtitle of the section
+    subtitle: 'Sharing design news, especially tips & tricks from the pros/YOU out there!'
     posts_number: 3
     col_number: three
     actions:
