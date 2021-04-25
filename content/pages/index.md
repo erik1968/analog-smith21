@@ -6,12 +6,15 @@ sections:
     type: section_hero
     title: 'Hello! Welcome to::'
     content: >
+      ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
 
 
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This section, and the rest of this site will host my first visual design
+      portfolio since I made the decision to seriously chase the idea of
+      becoming a designer >>> so please let me know by smacking that "Let's
+      Talk" button above! Thank you!!
     actions:
       - label: Let's talk
         url: /contact
