@@ -56,7 +56,7 @@ sections:
       Music Solutions & Integrations
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: What
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
