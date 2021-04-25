@@ -48,3 +48,5 @@ Interactive digital conversion prototype of the existing reference analog toaste
 #### **Project Objective ::**
 
 As this was an early project in my UX training, I wanted to take a totally analog appliance through the redesign steps required to conceptually and visually transform its user-interface, i.e., operating buttons and dials, into a digital appliance interface.
+
+![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)
