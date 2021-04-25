@@ -66,7 +66,7 @@ sections:
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id..
-      - author: Aubrey Hoover
+      - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapib
