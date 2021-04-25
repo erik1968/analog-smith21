@@ -1,5 +1,5 @@
 ---
-title: Project V > s
+title: Project V > Web Design Projects
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/MovieTrailer_CaroselThumb.png
