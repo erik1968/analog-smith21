@@ -1,10 +1,9 @@
 ---
 title: Project I > Analog to Digital Oven Conversion
-subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/majestic-chestnut.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/violet-chili.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
@@ -34,11 +33,20 @@ seo:
       relativeUrl: true
 layout: project
 ---
+**Deliverables ::**
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Interactive digital conversion prototype of the existing reference analog toaster-convection oven, including:
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+*   Standardized & interactive digital control panel for further development \[ Component: “Control Panel Template” ]
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+*   Product Mock-Up, including the Control Panel Template
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+*   A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...
+
+> ##### **"Design, don't decorate" -who said this first?**
+
+#### **Project Objective ::**
+
+As this was an early project in my UX training, I wanted to take a totally analog appliance through the redesign steps required to conceptually and visually transform its user-interface, i.e., operating buttons and dials, into a digital appliance interface.
+
+![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)

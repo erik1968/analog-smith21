@@ -2,7 +2,7 @@
 title: 'Project II > Board Game Redesign [ Triominos ]'
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/TriOminos-Rdsn_GoGOLD_Diagonal-PlayBrd-Bx-View-BlndGrp11_1000x962.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
