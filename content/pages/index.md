@@ -53,7 +53,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
-      Music Integrations
+      Music Solutions & Integrations
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
