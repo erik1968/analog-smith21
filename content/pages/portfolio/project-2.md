@@ -61,7 +61,7 @@ The goal the from beginning was to improve the instructions and game playing exp
 
 the triangle shaped game packaging as of 2017 was retained, except for the background color -- black to red. And, the instructions were revised significantly with extra emphasis on type weight, size and contrast to make them easier to read, especially at smaller type sizes. But, when it came time to create a 3D mockup a potential problem had to to be solved: how to handle the potential cost of producing the new hexagon shaped instructions and half dozen triangular magnetic game “board” sheets. If I kept the orignal size scale, the magnets alone could kill this project. I remember thinking: why didn’t I catch this?! Well, I know the reason and I will make that confession at the end/lessons learned slide. At any rate, I looked at my options and decided to do the right thing: Keep it Simple(ler), i.e, the simplest solution is often the best (note to self!). So, I changed the instructions, game board and tiles/pieces to a more compact, portable and player-friendly design in unsteady, bumpy situations like turbulence on a long flight, or a windy day at the park.
 
-###### ***Links to this entire Project in Figma::***
+##### ***Links to this entire Project in Figma::***
 
 [UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)
 
