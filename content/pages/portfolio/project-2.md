@@ -69,13 +69,13 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 ![](/images/Asset%20564X%203D%20Mockup%20in%20Ai%20Package%20DIELINES.png)
 
-##### ******
+#####
 
-******![](/images/modern-maple.png)
+![](/images/modern-maple.png)
 
-******![](/images/festive-broccoli.png)
+![](/images/festive-broccoli.png)
 
-******
+***
 
 ***Links to this entire Project in Figma::***
 
