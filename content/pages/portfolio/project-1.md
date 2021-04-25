@@ -1,6 +1,5 @@
 ---
 title: Project I > Analog to Digital Oven Conversion
-subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/majestic-chestnut.png
 thumb_image_alt: 'White, black, and red shoe sole'
