@@ -4,7 +4,7 @@ subtitle: Spring 2020
 date: '2019-04-08'
 thumb_image: images/2020-06-11_UX2_PIII-X2-Scale copy.png
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/VI_Product_Box1+2_Box1-Open_2021ess.png
+image: images/UX2-P3-Spring2020_EVH-GtrFX-App copy.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
