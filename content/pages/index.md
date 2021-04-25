@@ -57,7 +57,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
-    subtitle: An optional subtitle of the section
+    subtitle: 'I '
     col_number: three
     testimonials:
       - author: Sean Salazar
