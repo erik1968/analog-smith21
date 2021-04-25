@@ -1,10 +1,10 @@
 ---
 title: Project V > Web Design Fun!
-subtitle: Optional Project Subtitle
+subtitle: Early College Projects from User Experience & Web Design Certificate
 date: '2019-01-05'
 thumb_image: images/MovieTrailer_CaroselThumb.png
 thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
+image: images/ErikS_1stCMS-Portfolio-Site_Webflow_2019ess.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
@@ -34,12 +34,14 @@ seo:
       relativeUrl: true
 layout: project
 ---
+Although the bulk of my college training is in Visual Comm Design \[BDes], I was keenly aware of the fact that our world is more interconnected via the web than ever. So I knew I'd better sign-up for a good chunk of Web & UX/UI training if I ever want to reach my work's target audience(s), or even discover--for that matter--a fair number of potential colleagues, collaborators and clients. Because doing traditional design work as a "stand alone designer" \[whether it's illustration, posters, flyers, logos, branding, photographic and print/publishing work] **without** a good handle on how to translate, design and publish (develop) that work on web platforms is just not feasible, nor a competitive strategy in my opinion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna. Non curabitur gravida arcu ac tortor dignissim. Pretium quam vulputate dignissim suspendisse in est. Ante in nibh mauris cursus mattis. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Facilisi nullam vehicula ipsum a arcu cursus. Habitant morbi tristique senectus et. Urna duis convallis convallis tellus id interdum velit. Sociis natoque penatibus et magnis. Adipiscing tristique risus nec feugiat in fermentum posuere.
+> Design, don't decorate" - ? Who said it first ?
 
->"You can't use up creativity. The more you use, the more you have." - Maya Angelou
+So, in Web 1 training, we began with a combo of code-only developing on one training stream, and a "visual"/GUI-based method. For GUI we used[ **Webflow**](https://webflow.com/) \[ref: cover image above from[** my first site using their CMS here\*\***](https://analogsmith-xyz-dffb39.webflow.io/)]. Coming from an IT background (USAF Cyber Systems), there was a GUI for everything so that was fine, but I appreciated the power + flexibility of coding *early-on* and made sure to stay on top of that throughout the certfication training at EWU.
 
-Feugiat in fermentum posuere urna nec tincidunt praesent semper. Bibendum enim facilisis gravida neque convallis a. Diam donec adipiscing tristique risus nec feugiat in fermentum. Vitae suscipit tellus mauris a diam. Sit amet aliquam id diam maecenas. Id velit ut tortor pretium viverra suspendisse. Massa tincidunt dui ut ornare lectus sit amet est. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Purus sit amet volutpat consequat mauris nunc congue nisi. Et netus et malesuada fames ac. Sed faucibus turpis in eu. Pharetra pharetra massa massa ultricies. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis hendrerit dolor magna eget est.
+My first 'coded' work was for a[ **movie trailer cover**](https://erik1968.github.io/movie-trailer/), then a more animated attempt at a[ **Google Doodle**](https://erik1968.github.io/google-doodle/). I has happy with the movie trailer, but not so much with the Google Doodle as I wanted to use javascript to do a lot more with it, but was not there training/proficiency-wise yet \[there will be a part 2].
 
-Elit pellentesque habitant morbi tristique senectus et netus et. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Turpis egestas pretium aenean pharetra magna ac placerat. Suspendisse sed nisi lacus sed viverra tellus in. Lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Donec pretium vulputate sapien nec sagittis. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed euismod nisi porta lorem. Semper quis lectus nulla at. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Aliquam sem et tortor consequat id porta. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Ipsum dolor sit amet consectetur adipiscing elit.
+![](/images/MovieTrailer_SiteTrng_Web1\_2019\_ess%20smaller.png)
 
+![](/images/Flying%20V%20GIF-downsized.gif)
