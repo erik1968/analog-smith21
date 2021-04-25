@@ -69,9 +69,15 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 ![](/images/Asset%20564X%203D%20Mockup%20in%20Ai%20Package%20DIELINES.png)
 
+##### ******
 
+******![](/images/modern-maple.png)
 
-##### ***Links to this entire Project in Figma::***
+******![](/images/festive-broccoli.png)
+
+******
+
+***Links to this entire Project in Figma::***
 
 [UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)
 
