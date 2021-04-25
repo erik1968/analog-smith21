@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-## A branding, packaging and website > Player-centered concepts
+## A branding project that evolved into an arguably ***user/player-centered product idea***
 
 ###### I have all the content I need now, including brand new, studio quality (shot in new light tent) product photos of the revised and new surfrace printed packages.
 
