@@ -11,8 +11,8 @@ sections:
 
       *>>> This section, and the rest of this site will host my first visual
       design portfolio since I made the decision to seriously chase the idea of
-      becoming a designer >>> so please let me know by smacking that "Let's
-      Talk" button above! Thank you!!*
+      becoming a designer >>> so please let me know by smacking that button
+      below*
     actions:
       - label: Let's Talk
         url: /contact
