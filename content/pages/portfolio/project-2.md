@@ -47,11 +47,24 @@ seo:
       relativeUrl: true
 layout: project
 ---
+#### **Deliverables ::**
 
-Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.
+Improved Game Instructions, and a funner, more engaging game playing experience by changing the design of the game pieces and the game playing surface for all situations, at home, on the road, whatever >> this deliverable must be a 3D tested solution...
 
->"Every great design begins with an even better story." - Lorinda Mamo
+"This project allowed me to push the limits of what I'd been taught about UX, Web and Visual design...
 
-Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
+#### **Project Goals & Summary ::**
 
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
+The goal the from beginning was to improve the instructions and game playing experience. After \*discovery and some good \*research (\*next slide) I initially went with an “anniversary special edition” with very similar graphics, type treatment and all to the original game release by Pressman Toys in \*\*1968.
+
+##### **With version 1 & 2 \[ link to the project in Figma ]**
+
+the triangle shaped game packaging as of 2017 was retained, except for the background color -- black to red. And, the instructions were revised significantly with extra emphasis on type weight, size and contrast to make them easier to read, especially at smaller type sizes. But, when it came time to create a 3D mockup a potential problem had to to be solved: how to handle the potential cost of producing the new hexagon shaped instructions and half dozen triangular magnetic game “board” sheets. If I kept the orignal size scale, the magnets alone could kill this project. I remember thinking: why didn’t I catch this?! Well, I know the reason and I will make that confession at the end/lessons learned slide. At any rate, I looked at my options and decided to do the right thing: Keep it Simple(ler), i.e, the simplest solution is often the best (note to self!). So, I changed the instructions, game board and tiles/pieces to a more compact, portable and player-friendly design in unsteady, bumpy situations like turbulence on a long flight, or a windy day at the park.
+
+### ***Links to this entire Project in Figma::***
+
+[UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)
+
+[UX2 P1 V4 Game Redesign | SILVER Travel Edition](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
+
+[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
