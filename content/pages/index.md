@@ -69,9 +69,7 @@ sections:
       - author: Aubrey Hoover
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapib
       - author: Deegan Wallace
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
