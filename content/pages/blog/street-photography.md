@@ -1,8 +1,6 @@
 ---
 title: Understanding Street Photography
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor'
 date: '2019-03-10'
 thumb_image: images/8_thumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
