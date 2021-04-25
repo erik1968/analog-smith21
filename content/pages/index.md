@@ -14,7 +14,7 @@ sections:
       becoming a designer >>> so please let me know by smacking that button
       below*
     actions:
-      - label: Let's Talk
+      - label: Penny for your thoughts?
         url: /contact
         style: button
         new_window: false
