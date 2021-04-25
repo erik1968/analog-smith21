@@ -65,8 +65,7 @@ sections:
         avatar_alt: JJ's happy pic w/funny ears
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          ligula, cursus id..
       - author: Aubrey Hoover
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
