@@ -37,7 +37,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/Erik_Logo-IconOnly_2020ess_500x500.png"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
@@ -73,5 +74,6 @@
             }
         ]
     },
-    "domain": "https://analog-smith21-3d50e.netlify.app"
+    "domain": "https://analog-smith21-3d50e.netlify.app",
+    "favicon": "images/Erik_Logo-IconOnly_2020ess_100x100.png"
 }

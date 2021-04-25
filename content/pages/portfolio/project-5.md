@@ -1,8 +1,8 @@
 ---
-title: Project Title 5
+title: Project V > Web Design Fun!
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/MovieTrailer_CaroselThumb.png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
