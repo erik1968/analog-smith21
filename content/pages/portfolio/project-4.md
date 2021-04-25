@@ -1,5 +1,5 @@
 ---
-title: 'Project IV > '
+title: Project IV > M
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/VelvetInstruments_Redesign-202009304_v3_ess5 copy.jpg
