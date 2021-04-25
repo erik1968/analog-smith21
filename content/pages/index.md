@@ -9,12 +9,10 @@ sections:
       ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-
-
-      This section, and the rest of this site will host my first visual design
-      portfolio since I made the decision to seriously chase the idea of
+      *>>> This section, and the rest of this site will host my first visual
+      design portfolio since I made the decision to seriously chase the idea of
       becoming a designer >>> so please let me know by smacking that "Let's
-      Talk" button above! Thank you!!
+      Talk" button above! Thank you!!*
     actions:
       - label: Let's talk
         url: /contact
