@@ -1,5 +1,5 @@
 ---
-title: Project V > Web Design Fun
+title: Project V > Web Design Fun!
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/MovieTrailer_CaroselThumb.png
