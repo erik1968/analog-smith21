@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Visual + UX + Web Portfolio
+subtitle: 2018 to present...
 layout_style: mosaic
 seo:
   title: Portfolio
