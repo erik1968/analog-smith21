@@ -34,9 +34,15 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo. In vitae turpis massa sed. Mauris nunc congue nisi vitae suscipit tellus mauris a. Phasellus egestas tellus rutrum tellus pellentesque. Nulla facilisi morbi tempus iaculis urna id volutpat. 
+This was my first "app" development project and I had a blast doing it as I got to take advantage of all my years of playing guitars and experience working with all sorts of sound effects (pedals mostly), amps, heads and recording equipment. Here's a snapshot of what the project involved::
 
-> "Design adds value faster than it adds costs." - Joel Spolsky
+![](/images/P3%20GTR-FX-MobileApp_TributeEVH\_2020ess.png)
 
-Amet risus nullam eget felis eget. Quisque egestas diam in arcu cursus euismod quis. Nibh nisl condimentum id venenatis a condimentum. Condimentum vitae sapien pellentesque habitant morbi. Adipiscing bibendum est ultricies integer quis auctor elit. Velit laoreet id donec ultrices. Neque egestas congue quisque egestas diam. 
+Here's a screenshot from the early phase/Lo-FI Wireframes [**this project in Figma**](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72):
+
+![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
+
+Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72)shown between iPhone Screens \[mockup] design:
+
+![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
 
