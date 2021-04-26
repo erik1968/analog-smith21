@@ -3,7 +3,7 @@ subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/Stewart-SmithErik_HistofDesn-EarliestDesigns_Edited-Ps.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/AnalogSmith_HistoryOfWriting_Poster.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
