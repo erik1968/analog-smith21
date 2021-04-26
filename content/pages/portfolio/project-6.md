@@ -40,20 +40,12 @@ title: Visual Design > Foundations
 
 I did the bulk of my training in EWU's Visual Communication Design program which were guided for the most part. But, I also did quite a few self-directed projects > often branching out and into the guitar+music creation, recording and/or guitar+music inspired integrations > Best of all though, I had the good fortune of a getting to work on a real-world custom guitar co. startup \[                         .com ] design with an old friend I played football with and learned how to play guitar with way back in H.S. \[Los Feliz/Hollywood area of CA in mid-1980s] \*\*\* GET REST OF THIS COPY FROM PROJECT 6.MD OF LAST SITE DEPLOYMENT \*\*\*
 
-###
-
 ### >>> Essentials:: History of Design > Schools > Bauhuas \[inspired poster]
 
 
-
-![](/images/Bauhaus_WEBFLOW-2020-03.png)
 
 ###
 
 ### >>> Essentials:: Layout & Grid
 
-
-
 ![](/images/Stewart-SmithErik_P4-layoutCompV5a\_800x800.jpg)
-
- 
