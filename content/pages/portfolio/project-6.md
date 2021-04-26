@@ -1,5 +1,7 @@
 ---
-subtitle: Optional Project Subtitle
+subtitle: >-
+  >>> Logos, posters, stickers, brand-identity guides, book cover,
+  info-graphics, photographic content projects, and more...
 date: '2018-12-18'
 thumb_image: images/Stewart-SmithErik_HistofDesn-EarliestDesigns_Edited-Ps.jpg
 thumb_image_alt: A handheld game console on a yellow background
