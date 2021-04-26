@@ -23,7 +23,7 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: September 2018 to Present...
-    projects_number: 5
+    projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
