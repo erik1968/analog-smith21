@@ -42,9 +42,7 @@ I did the bulk of my training in EWU's Visual Communication Design program which
 
 ### >>> Essentials:: History of Design > Schools > Bauhuas \[inspired poster]
 
-
-
-###
+### ![](/images/pink-sloth.png)
 
 ### >>> Essentials:: Layout & Grid
 
