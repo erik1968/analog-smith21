@@ -4,15 +4,15 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hello! Welcome to::'
     content: >
       ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      *>>> This section, and the rest of this site will host my first visual
-      design portfolio since I made the decision to seriously chase the idea of
-      becoming a designer >>> so please let me know by smacking that button
-      below*
+      *>>> This site will host my first visual design portfolio after charting
+      this new path of becoming a designer >>> I am continuously researching,
+      resovling, revising & reiterating my past, present & future works in order
+      to be the best designer I can be for you >>>  so please let me know how
+      I'm doing by smacking that button below*
     actions:
       - label: Penny for your thoughts?
         url: /contact
