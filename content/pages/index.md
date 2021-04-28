@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hello! Welcome to:'
+    title: Hello & Welcome!
     content: >
       ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
