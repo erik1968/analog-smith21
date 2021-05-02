@@ -18,7 +18,7 @@ sections:
         url: /contact
         style: button
         new_window: false
-  - section_id: latest-projects
+  - section_id: latest-projectsA
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
