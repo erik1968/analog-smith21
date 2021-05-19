@@ -11,8 +11,7 @@ sections:
       *>>> This site will host my first visual design portfolio after charting
       this new path of becoming a designer >>> I am continuously researching,
       resovling, revising & reiterating my past, present & future works in order
-      to be the best designer I can be for you >>>  so please let me know how
-      I'm doing by clicking or smacking that button below, thank you!*
+      to be the best designer I can be for you >>>  *
     actions:
       - label: Penny for your thoughts?
         url: /contact
