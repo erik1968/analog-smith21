@@ -1,5 +1,7 @@
 ---
-title: Why Fonts Matter
+title: >-
+  Making my ultimate UX/UI project > > Analog > Digital :: a test of
+  resilience...
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
