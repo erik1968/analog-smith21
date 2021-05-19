@@ -1,8 +1,10 @@
 ---
-title: Why Fonts Matter
+title: >-
+  Making my ultimate UX/UI project > > Analog > Digital :: a test of
+  resilience...
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
+  A BOARD GAME RE-DESIGN FROM THE START (UX 2/2020) >> TRIOMINOS Amet nibh
+  adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis.
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table

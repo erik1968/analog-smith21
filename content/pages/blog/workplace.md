@@ -1,8 +1,10 @@
 ---
-title: The Elements of Great Workplace Design
+title: >-
+  Creating your own custom guitar company [startup] from the idea+pencil+paper
+  to 3D branded packaging
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien
+  VELVET INSTRUMENTS:: Vis accumsan feugiat adipiscing nisl amet adipiscing
+  accumsan blandit accumsan sapien
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table

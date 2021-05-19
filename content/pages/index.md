@@ -8,13 +8,12 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      *>>> This site will host my first visual design portfolio after charting
+      \*>>> This site will host my first visual design portfolio after charting
       this new path of becoming a designer >>> I am continuously researching,
       resovling, revising & reiterating my past, present & future works in order
-      to be the best designer I can be for you >>>  so please let me know how
-      I'm doing by clicking or smacking that button below, thank you!*
+      to be the best designer I can be for you >>> 
     actions:
-      - label: Penny for your thoughts?
+      - label: Reach out >>>
         url: /contact
         style: button
         new_window: false
@@ -32,7 +31,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Re-Mix / Re-Design
+      - title: 'Logos, stickers, decals, labels, surface grFx...'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -83,7 +82,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: View Project Journies
         url: blog
         style: button
 seo:
