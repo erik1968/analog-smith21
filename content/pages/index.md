@@ -27,7 +27,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: 'What we can do for you::'
+    title: 'Services :: Projects :: Possibilities'
     col_number: two
     is_numbered: true
     grid_items:
@@ -46,7 +46,9 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: Everything else...
+      - title: >-
+          From audio+music integration to guitar lessons to
+          cross-discipline/fields creative collaboration...
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
