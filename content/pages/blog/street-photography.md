@@ -2,7 +2,9 @@
 title: >-
   A UX/UI project that I dedicated to my #1 instrumental inspiration:: Eddie Van
   Halen
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor'
+excerpt: >-
+  GUITAR + FX + AMP EMULATION/SYM APP FOR MOBILE/TABLET PLAYERS:: Lorem ipsum
+  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 date: '2019-03-10'
 thumb_image: images/8_thumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
