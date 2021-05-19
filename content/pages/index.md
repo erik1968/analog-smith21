@@ -13,7 +13,7 @@ sections:
       resovling, revising & reiterating my past, present & future works in order
       to be the best designer I can be for you >>> 
     actions:
-      - label: Penny for your thoughts?
+      - label: Reach out >>>
         url: /contact
         style: button
         new_window: false
