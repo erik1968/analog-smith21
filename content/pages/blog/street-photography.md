@@ -1,5 +1,7 @@
 ---
-title: Understanding Street Photography
+title: >-
+  A UX/UI project that I dedicated to my #1 instrumental inspiration:: Eddie Van
+  Halen
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor'
 date: '2019-03-10'
 thumb_image: images/8_thumb.jpg
