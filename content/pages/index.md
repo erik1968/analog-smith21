@@ -27,7 +27,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: 'What we can do for you::'
+    title: 'Services :: Projects :: Possibilities'
     col_number: two
     is_numbered: true
     grid_items:
