@@ -1,5 +1,7 @@
 ---
-title: The Elements of Great Workplace Design
+title: >-
+  Creating your own custom guitar company [startup] from the idea+pencil+paper
+  to 3D packaging
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien
