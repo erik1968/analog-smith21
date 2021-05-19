@@ -31,9 +31,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: >-
-          Making my ultimate UX/UI project > > Analog > Digital :: a test of
-          resilience...
+      - title: 'Logos, stickers, decals, labels, surface grFx...'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
