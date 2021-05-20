@@ -51,7 +51,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam 
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
-      Music Solutions & Integrations
+      Music Solutions...
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
