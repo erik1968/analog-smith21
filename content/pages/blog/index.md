@@ -1,5 +1,5 @@
 ---
-title: '>>> The What + How Journal :: '
+title: '>>> The What + How Journal :: Walk-Thrus :: '
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
