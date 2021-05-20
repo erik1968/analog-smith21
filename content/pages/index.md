@@ -46,10 +46,9 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
       - title: User Experience & Interface Solutions
-        content: >-
+        content: >
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          convallis, interdum ligula vel, pretium diam.
       - title: >-
           From audio+music integration to guitar lessons to
           cross-discipline/fields creative collaboration...
