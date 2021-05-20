@@ -90,6 +90,7 @@ sections:
       - label: View Project Journies
         url: blog
         style: button
+    title: '   '
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
