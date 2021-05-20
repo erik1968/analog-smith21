@@ -1,5 +1,5 @@
 ---
-title: '>>> The What + How Journal :: Project Walk-Thrus :: Inspriation'
+title: '>>> The What + How Journal :: Project Walk-Thrus :: Inspiration'
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
