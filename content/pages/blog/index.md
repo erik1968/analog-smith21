@@ -1,6 +1,8 @@
 ---
 title: '>>> The What + How Journal :: Project Walk-Thrus :: Inspiration'
-subtitle: 'News, tips and highlights'
+subtitle: >-
+  >> For now, these are the projects than can best describe visually my design
+  processes...
 hide_title: false
 col_number: three
 seo:
