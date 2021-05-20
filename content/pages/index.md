@@ -72,7 +72,7 @@ sections:
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapib
+        content: Vestibulum a nunc ut eros
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
