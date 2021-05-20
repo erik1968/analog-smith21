@@ -83,14 +83,21 @@ sections:
           convalli
   - section_id: latest-posts
     type: section_posts
-    title: News >>> Tips >> Tricks!
-    subtitle: 'Sharing design news, especially tips & tricks from the pros/YOU out there!'
+    subtitle: >-
+      A more intimate look at how I dove into my projects >> how I approach +
+      piece together each project... Because, there's no simple, straight or
+      perfect way to do this I found out >>> both the hard-way / many failures,
+      and the softer, more gradual design experiences when I truly applied the
+      proven techniques + methods + appropriate CONTEXT to every task that
+      produced an asset worthy [in our own opinions] of publication/further
+      development...
     posts_number: 3
     col_number: three
     actions:
       - label: View Project Journies
         url: blog
         style: button
+    title: Take a tour with me >> for the "how" + transparency
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
