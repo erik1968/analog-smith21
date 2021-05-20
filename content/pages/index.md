@@ -90,7 +90,7 @@ sections:
       - label: View Project Journies
         url: blog
         style: button
-    title: 'Here''s a few of '
+    title: 'Here is '
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
