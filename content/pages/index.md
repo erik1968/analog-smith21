@@ -14,7 +14,8 @@ sections:
       present & future works in order to be the best designer I can >>> let me
       help you with your next project:: Logos, Branding, General Graphic/Visual
       Design + Imagery, Biz Cards, Stickers, Posters, Signs, and UX/UI, Website
-      Development, Photographic and Print services...
+      Development, Audio-Instrumental Integration, Photographic and Print
+      services...
     actions:
       - label: Reach out >>>
         url: /contact
