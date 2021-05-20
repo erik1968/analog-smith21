@@ -76,9 +76,7 @@ sections:
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convalli
+        content: Sed laoreet magna commodo liber
   - section_id: latest-posts
     type: section_posts
     subtitle: >-
