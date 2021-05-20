@@ -36,9 +36,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: 'Logos, stickers, decals, labels, surface grFx...'
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, 
+        content: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       - title: Photographic Content Creation
         content: |
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. 
