@@ -68,9 +68,7 @@ sections:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id..
+        content: 'Lorem ipsum dolor sit amet,'
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
