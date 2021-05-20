@@ -97,7 +97,7 @@ sections:
       - label: View Project Journies
         url: blog
         style: button
-    title: Take a tour with me >> see how I did each project
+    title: Take a tour with me >> for the "how" + transparency
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
