@@ -36,29 +36,22 @@ sections:
     is_numbered: true
     grid_items:
       - title: 'Logos, stickers, decals, labels, surface grFx...'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       - title: Photographic Content Creation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: |
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. 
       - title: User Experience & Interface Solutions
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac
       - title: >-
           From audio+music integration to guitar lessons to
           cross-discipline/fields creative collaboration...
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          Vestibulum a nunc ut eros condimentum posuere. Nullam 
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
-      Music Solutions & Integrations
+      Music Solutions...
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
@@ -68,29 +61,20 @@ sections:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id..
+        content: 'Lorem ipsum dolor sit amet,'
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapib
+        content: Vestibulum a nunc ut eros
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convalli
+        content: Sed laoreet magna commodo liber
   - section_id: latest-posts
     type: section_posts
     subtitle: >-
       A more intimate look at how I dove into my projects >> how I approach +
-      piece together each project... Because, there's no simple, straight or
-      perfect way to do this I found out >>> both the hard-way / many failures,
-      and the softer, more gradual design experiences when I truly applied the
-      proven techniques + methods + appropriate CONTEXT to every task that
-      produced an asset worthy [in our own opinions] of publication/further
-      development...
+      piece together each project...
     posts_number: 3
     col_number: three
     actions:
