@@ -8,10 +8,13 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      \>>> This site will host my first visual design portfolio after charting
-      this new path of becoming a designer >>> I am continuously researching,
-      resolving, revising & reiterating my past, present & future works in order
-      to be the best designer I can be for you >>>
+      \>>> Hello, thank you for stopping by.. This site will host my first
+      visual design portfolio in the process of becoming a designer >>> I am
+      continuously researching, resolving, revising & reiterating my past,
+      present & future works in order to be the best designer I can >>> let me
+      help you with your next project:: Logos, Branding, General Graphic/Visual
+      Design + Imagery, Biz Cards, Stickers, Posters, Signs, and UX/UI, Website
+      Development, Photographic and Print services...
     actions:
       - label: Reach out >>>
         url: /contact
