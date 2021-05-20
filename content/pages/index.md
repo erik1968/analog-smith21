@@ -45,7 +45,7 @@ sections:
           a maximus mi. 
       - title: User Experience & Interface Solutions
         content: |
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero conv
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac
       - title: >-
           From audio+music integration to guitar lessons to
           cross-discipline/fields creative collaboration...
