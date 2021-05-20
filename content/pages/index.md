@@ -83,7 +83,6 @@ sections:
           convalli
   - section_id: latest-posts
     type: section_posts
-    title: News >>> Tips >> Tricks!
     subtitle: 'Sharing design news, especially tips & tricks from the pros/YOU out there!'
     posts_number: 3
     col_number: three
