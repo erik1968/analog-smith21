@@ -37,8 +37,6 @@ sections:
       - title: >-
           From audio+music integration to guitar lessons to
           cross-discipline/fields creative collaboration...
-        content: |
-          Vestibulum a nunc ut eros condimentum posuere. Nullam 
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
       Music Solutions...
