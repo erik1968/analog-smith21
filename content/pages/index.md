@@ -49,7 +49,7 @@ sections:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: 'Lorem ipsum dolor sit amet,'
+        content: 'Hey JJ, what up?'
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
