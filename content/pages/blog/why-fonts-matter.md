@@ -1,7 +1,5 @@
 ---
-title: >-
-  Making my ultimate UX/UI project > > Analog > Digital :: a test of
-  resilience...
+title: 'My creative weapon:: the GUITAR!'
 excerpt: >-
   A BOARD GAME RE-DESIGN FROM THE START (UX 2/2020) >> TRIOMINOS Amet nibh
   adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis.
