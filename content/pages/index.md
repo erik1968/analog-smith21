@@ -8,14 +8,10 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      \>>> Hello, thank you for stopping by.. This site will host my first
-      visual design portfolio in the process of becoming a designer >>> I am
-      continuously researching, resolving, revising & reiterating my past,
-      present & future works in order to be the best designer I can >>> let me
-      help you with your next project:: Logos, Branding, General Graphic/Visual
-      Design + Imagery, Biz Cards, Stickers, Posters, Signs, and UX/UI, Website
-      Development, Audio-Instrumental Integration, Photographic and Print
-      services...
+      \>>> Hello, thank you for stopping by.. Let me help you with your next
+      project:: Logos, Branding, General Graphic/Visual Design + Imagery, Biz
+      Cards, Stickers, Posters, Signs, and UX/UI, Website Development,
+      Audio-Instrumental Integration, Photographic and Print services...
     actions:
       - label: Reach out >>>
         url: /contact
@@ -36,40 +32,32 @@ sections:
     is_numbered: true
     grid_items:
       - title: 'Logos, stickers, decals, labels, surface grFx...'
-        content: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       - title: Photographic Content Creation
-        content: |
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. 
       - title: User Experience & Interface Solutions
-        content: |
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac
       - title: >-
           From audio+music integration to guitar lessons to
           cross-discipline/fields creative collaboration...
-        content: |
-          Vestibulum a nunc ut eros condimentum posuere. Nullam 
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
       Music Solutions...
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
-    subtitle: 'Please share your ideas, thoughts or insights with me'
+    subtitle: Huh?
     col_number: three
     testimonials:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: 'Lorem ipsum dolor sit amet,'
+        content: 'Hey JJ, what up?'
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: Vestibulum a nunc ut eros
+        content: Now what?
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
-        content: Sed laoreet magna commodo liber
+        content: Those were some yummie critters
   - section_id: latest-posts
     type: section_posts
     subtitle: >-

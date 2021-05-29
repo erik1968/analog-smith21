@@ -1,7 +1,5 @@
 ---
-title: >-
-  Creating your own custom guitar company [startup] from the idea+pencil+paper
-  to 3D branded packaging
+title: 'Property, Solar Panels, Gardens, Bees +'
 excerpt: >-
   VELVET INSTRUMENTS:: Vis accumsan feugiat adipiscing nisl amet adipiscing
   accumsan blandit accumsan sapien
