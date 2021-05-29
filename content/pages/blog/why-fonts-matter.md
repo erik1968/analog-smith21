@@ -1,8 +1,8 @@
 ---
 title: 'My creative weapon:: the GUITAR!'
 excerpt: >-
-  A BOARD GAME RE-DESIGN FROM THE START (UX 2/2020) >> TRIOMINOS Amet nibh
-  adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis.
+  TIME TO OPEN THE GUITAR BOX FOR YOUR VIEWERS: Amet nibh adipiscing adipiscing.
+  Commodo ante vis placerat interdum massa massa primis.
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
