@@ -33,8 +33,6 @@ sections:
     grid_items:
       - title: 'Logos, stickers, decals, labels, surface grFx...'
       - title: Photographic Content Creation
-        content: |
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. 
       - title: User Experience & Interface Solutions
         content: |
           Sed laoreet magna commodo libero euismod sodales. Nunc ac
