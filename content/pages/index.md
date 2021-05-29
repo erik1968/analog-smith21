@@ -43,7 +43,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: What on your mind?!
-    subtitle: 'Please share your ideas, thoughts or insights with me'
+    subtitle: Huh?
     col_number: three
     testimonials:
       - author: Jay-Jay
