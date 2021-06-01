@@ -71,7 +71,7 @@ sections:
         style: button
     title: Take a tour with me >> for the "how" + transparency
 seo:
-  title: Stackbit Exto Theme
+  title: 
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
