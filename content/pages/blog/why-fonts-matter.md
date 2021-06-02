@@ -6,7 +6,7 @@ excerpt: >-
 date: '2019-03-27'
 thumb_image: images/polite-potato.png
 thumb_image_alt: A pile of books on the table
-image: images/P4_P493_Fender-Jaguar_ReDesigns_Revised-08.png
+image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
