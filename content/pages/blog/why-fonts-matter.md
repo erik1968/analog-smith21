@@ -1,5 +1,5 @@
 ---
-title: 'My creative weapon:: the GUITAR!'
+title: I love designing detailed guitars using the creative tools we have
 excerpt: >-
   TIME TO OPEN THE GUITAR BOX FOR YOUR VIEWERS: Amet nibh adipiscing adipiscing.
   Commodo ante vis placerat interdum massa massa primis.
