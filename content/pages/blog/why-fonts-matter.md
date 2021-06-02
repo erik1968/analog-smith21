@@ -4,7 +4,7 @@ excerpt: >-
   TIME TO OPEN THE GUITAR BOX FOR YOUR VIEWERS: Amet nibh adipiscing adipiscing.
   Commodo ante vis placerat interdum massa massa primis.
 date: '2019-03-27'
-thumb_image: images/12_thumb.jpg
+thumb_image: images/polite-potato.png
 thumb_image_alt: A pile of books on the table
 image: images/P4_P493_Fender-Jaguar_ReDesigns_Revised-08.png
 image_alt: A pile of books on the table
