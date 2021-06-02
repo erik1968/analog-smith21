@@ -44,7 +44,6 @@ layout: post
 ---
 This is where I can share my guitar influences and how it affects my design work at a level deep, deep, deeper down into the human psyche (I've researched this...
 
-[***So, I decided to record myself playing an old, 80s anthem type song by New Wave classic band, Killing Joke, with the song, Love Like Blood. The song + tone has resonances right here and now if you have ears to hear... as 'they say'... ***](https://www.dropbox.com/s/ywi7e9bh0vywvfv/KillingJoke_LoveLikeBlood_ESS-Take2-200915.MOV?dl=0)
+
 
 > The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
-
