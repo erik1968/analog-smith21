@@ -83,4 +83,6 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 [UX2 P1 V4 Game Redesign | SILVER Travel Edition](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
-[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
+[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
+
+[![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
