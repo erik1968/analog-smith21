@@ -55,11 +55,9 @@ Improved Game Instructions, and a funner, more engaging game playing experience 
 
 ### **Project Goals & Summary ::**
 
-The goal the from beginning was to improve the instructions and game playing experience. After discovery and some good research I initially went with an ***anniversary special edition*** with very similar graphics, type treatment and all to the original game release by Pressman Toys in 1968 \[see Triominos package version photos archive near bottom of this page].
+The goal the from beginning was to improve the instructions and game playing experience. After discovery and some good research I initially went with an ***anniversary special edition***[ with very similar graphics, type treatment and all to the original game release by Pressman Toys in 1968 \[see Triominos package version photos archive near bottom of this page\].](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
-#### [﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)**Versions 1 & 2 ⬇️**
-
-
+#### [﻿**Versions 1 & 2 Below:  **▶️](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
 ﻿﻿﻿![](https://www.dropbox.com/s/bry1kxm2ska4sne/TriOminoes%20Redesign%20Special%20Annivers.%20Edition%20V2%202020%20copy.png?raw=1)
 
