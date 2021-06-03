@@ -38,7 +38,9 @@ title: Visual Design > Foundations
 ---
 > Big things have small beginnings" - T.E. Lawrence, from Lawrence of Arabia
 
-I did the bulk of my training in EWU's Visual Communication Design program which were guided for the most part. But, I also did quite a few self-directed projects > often branching out and into the guitar+music creation, recording and/or guitar+music inspired integrations > Best of all though, I had the good fortune of a getting to work on a real-world custom guitar co. startup \[                         .com ] design with an old friend I played football with and learned how to play guitar with way back in H.S. \[Los Feliz/Hollywood area of CA in mid-1980s] \*\*\* GET REST OF THIS COPY FROM PROJECT 6.MD OF LAST SITE DEPLOYMENT \*\*\*
+
+
+I'm still working on this level of content >> that is, WORDS.... So, it's a work in progress, but it's getting there faster now.. 
 
 ### >>> Essentials:: History of Design > Schools > Bauhuas \[inspired poster]
 
