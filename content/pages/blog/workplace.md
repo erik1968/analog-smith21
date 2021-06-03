@@ -1,5 +1,7 @@
 ---
-title: 'Property, Solar Panels, Gardens, Bees +'
+title: >-
+  Tartarian remnants in Russia:: What do we really know about our pasts? Deep
+  thought project...
 excerpt: >-
   VELVET INSTRUMENTS:: Vis accumsan feugiat adipiscing nisl amet adipiscing
   accumsan blandit accumsan sapien
