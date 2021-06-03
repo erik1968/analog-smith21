@@ -2,11 +2,10 @@
 title: >-
   Tartarian remnants in Russia:: What do we really know about our pasts? Deep
   thoughts imagery..
-excerpt: "Russia was allegedly ruled by a vast + forgotten empire known as \"Great Tartaria.\"\_ >>> Join me in a visual exercise created by designer Chip Kidd that sparks that kind of deep exploration of the past >"
 date: '2019-03-10'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/8.jpg
+image: images/ChipKiddGoExercises_Grp7of7_190301_ess-20.png
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: Understanding Street Photography
@@ -42,8 +41,13 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Russia was allegedly \[debated in scholarly circles] ruled by a vast + 
-forgotten empire known as "Great Tartaria." So, when I found this image 
-\[an ancient Egyptian-like chimera sculpture] I decided to research + 
-explore it visually in the context of an exercise created by designer 
-Chip Kidd that helps us comprehend the core essentials of good design.
+Russia was allegedly \[debated in scholarly circles] ruled by a vast + forgotten empire known as "Great Tartaria." So, when I found this image \[an ancient Egyptian-like chimera sculpture] I decided to research + explore it visually in the context of an exercise created by designer Chip Kidd that helps us comprehend the core essentials of good design.
+
+![](https://preview--analog-smith21-3d50e.stackbit.dev/\_static/app-assets/ChipKiddGoExercises_Grp1of7\_190301\_ess-11-SMALL.png)
+
+So, this project is really just pushing the limits of what I could imagine compared to the most simple and reduced version of itself >>> if that makes an sense? If not, it's ok, because this was the most openly estoteric (is that possible?) expression of what I could create related to each of the principles of design for this exercise.
+
+
+
+I don't know why, but I absolutely love how these turned out in there simple forms and places. It's a deep deep dive for me.. Maybe you too..
+
