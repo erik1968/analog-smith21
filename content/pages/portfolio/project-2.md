@@ -59,6 +59,8 @@ The goal the from beginning was to improve the instructions and game playing exp
 
 [﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
+
+
 [﻿﻿![](https://www.dropbox.com/s/n22cb25c8vhiplk/TriOminos%20Redesign%20\__%20GOLD%20Travel%20Edition%20V4%202021%20copy.png?raw=1)﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
 ##### **With version 1 & 2 \[ link to the project in Figma ]**
@@ -89,4 +91,4 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 [UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
-[![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿![](https://www.dropbox.com/s/n22cb25c8vhiplk/TriOminos%20Redesign%20\__%20GOLD%20Travel%20Edition%20V4%202021%20copy.png?raw=1)](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
+[![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
