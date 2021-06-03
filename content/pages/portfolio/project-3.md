@@ -46,3 +46,4 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 
 ![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
 
+![](https://www.dropbox.com/s/6qh2wj3ies3yp17/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
