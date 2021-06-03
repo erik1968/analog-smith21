@@ -51,6 +51,10 @@ As this was an early project in my UX training, I wanted to take a totally analo
 
 
 
+![](https://www.dropbox.com/s/ncs6xzfwph0j3it/UX1\_P4\_OsterToaster-ReDesn_LO-FI_SystemMap_ess.png?raw=1)
 
 
-![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)![](https://www.dropbox.com/s/ncs6xzfwph0j3it/UX1\_P4\_OsterToaster-ReDesn_LO-FI_SystemMap_ess.png?raw=1)
+
+
+
+![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)
