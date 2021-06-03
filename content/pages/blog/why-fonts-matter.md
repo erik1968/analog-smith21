@@ -46,6 +46,32 @@ layout: post
 
 ![](/\_static/app-assets/enthusiastic-pluto.png)
 
-I've played guitars for most of my life and honestly it never gets old as long as you're continully learning new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored." 
+I've played guitars for most of my life and honestly it never gets old as long as you keep it fresh & learn new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored."
 
-So, that's the "playing"/user exerience element of the craft, but what about actually designing guitars? That was something I had seriously attempted to do beyond my usual guitar doodles and sketches over the years. 
+So, that's the "playing"/user experience element of the craft, but what about actually designing guitars? Well, a few opportunities did come up during my time in the design program at EWU. 
+
+The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-resolution metallic vector graphics + a lot of shadowing, and filter FX in order to make them look more real, the .ai files were HUGE!!! But, it was worth the extra efforts as I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.
+
+*   The first was a redesign of the iconic Gibson Flying “V”, then a Gibson Les Paul replica
+
+*   Followed by a Fender Jaguar
+
+*   And finally my 1st guitar design from scratch that is a re-imagined, future version of the old classic Fender Jaguar.
+
+Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht1.png)
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht3.png)
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht2A.png)
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht4.png)
+
+Here's some examples of how I layer the guitar components so they're easier to customize when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
+
+![](/\_static/app-assets/charming-chestnut.png)
+
+Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
+
+![](/\_static/app-assets/Frame%20for%20\(3\)%20Gibson%20LP%20Themes.png)
