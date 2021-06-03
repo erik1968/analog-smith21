@@ -74,4 +74,4 @@ Here's some examples of how I layer the guitar components so they're easier to c
 
 Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
 
-![](/\_static/app-assets/Frame%20for%20\(3\)%20Gibson%20LP%20Themes.png)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=1)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=0)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=1)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?raw=1)
+![](/\_static/app-assets/Frame%20for%20\(3\)%20Gibson%20LP%20Themes.png)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=1)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=0)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?dl=1)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?raw=1)![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?raw=1)
