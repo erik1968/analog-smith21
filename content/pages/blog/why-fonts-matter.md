@@ -65,3 +65,6 @@ Here’s some screenshots from those projects where I typically used Adobe Illus
 ![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht3.png)
 
 ![](/\_static/app-assets/adorable-lettuce.png)
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht4.png)
+
