@@ -1,12 +1,12 @@
 ---
-title: 'My creative weapon:: the GUITAR!'
+title: I love designing detailed guitars using the creative tools we have
 excerpt: >-
   TIME TO OPEN THE GUITAR BOX FOR YOUR VIEWERS: Amet nibh adipiscing adipiscing.
   Commodo ante vis placerat interdum massa massa primis.
 date: '2019-03-27'
 thumb_image: images/polite-potato.png
 thumb_image_alt: A pile of books on the table
-image: images/P4_P493_Fender-Jaguar_ReDesigns_Revised-08.png
+image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
@@ -42,9 +42,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
-This is where I can share my guitar influences and how it affects my design work at a level deep, deep, deeper down into the human psyche (I've researched this...
+###### *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design.*
 
-[***So, I decided to record myself playing an old, 80s anthem type song by New Wave classic band, Killing Joke, with the song, Love Like Blood. The song + tone has resonances right here and now if you have ears to hear... as 'they say'... ***](https://www.dropbox.com/s/ywi7e9bh0vywvfv/KillingJoke_LoveLikeBlood_ESS-Take2-200915.MOV?dl=0)
+![](/\_static/app-assets/enthusiastic-pluto.png)
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+I've played guitars for most of my life and honestly it never gets old as long as you're continully learning new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored." 
 
+So, that's the "playing"/user exerience element of the craft, but what about actually designing guitars? That was something I had seriously attempted to do beyond my usual guitar doodles and sketches over the years. 
