@@ -3,8 +3,11 @@ title: >-
   Tartarian remnants in Russia:: What do we really know about our pasts? Deep
   thoughts imagery..
 excerpt: >-
-  GUITAR + FX + AMP EMULATION/SYM APP FOR MOBILE/TABLET PLAYERS:: Lorem ipsum
-  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  Russia was allegedly [debated in scholarly circles] ruled by a vast +
+  forgotten empire known as "Great Tartaria." So, when I found this image [an
+  ancient Egyptian-like chimera sculpture] I decided to research + explore it
+  visually in the context of an exercise created by designer Chip Kidd that
+  helps us comprehend the core essentials of good design.
 date: '2019-03-10'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
