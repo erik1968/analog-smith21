@@ -42,8 +42,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
-This is where I can share my guitar influences and how it affects my design work at a level deep, deep, deeper down into the human psyche (I've researched this...
 
 
-
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design.*
+>
+> ![](/_static/app-assets/enthusiastic-pluto.png)
