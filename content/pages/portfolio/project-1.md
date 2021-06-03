@@ -55,10 +55,13 @@ As this was an early project in my UX training, I wanted to take a totally analo
 
 ![](https://www.dropbox.com/s/fxulr9uhp58uwhw/Screen%20Shot%202021-06-03%20at%2012.39.29%20AM.png?raw=1)
 
-
-
 ![](https://www.dropbox.com/s/3isc10vz7pilciw/Screen%20Shot%202021-06-03%20at%2012.39.38%20AM.png?raw=1)
 
 
 
+![](https://www.dropbox.com/s/3zoud3zprwkhuvw/Screen%20Shot%202021-06-03%20at%2012.39.59%20AM.png?raw=1)
+
+
+
 ![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)
+
