@@ -2,7 +2,6 @@
 title: >-
   Tartarian remnants in Russia:: What do we really know about our pasts? Deep
   thoughts imagery..
-excerpt: "Russia was allegedly ruled by a vast + forgotten empire known as \"Great Tartaria.\"\_ >>> Join me in a visual exercise created by designer Chip Kidd that sparks that kind of deep exploration of the past >"
 date: '2019-03-10'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
