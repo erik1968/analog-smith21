@@ -1,10 +1,14 @@
 ---
-title: 'Property, Solar Panels, Gardens, Bees +'
+title: >-
+  Tartarian remnants in Russia:: What do we really know about our pasts? Deep
+  thought project...
 excerpt: >-
-  VELVET INSTRUMENTS:: Vis accumsan feugiat adipiscing nisl amet adipiscing
-  accumsan blandit accumsan sapien
+  Russia used to be ruled by a vast empire known as "Great Tartaria".. So, when
+  I found this image I decided explore visually in the context of the principles
+  of design as instructed by designer Chipp Kidd in his "Go Exercises" for an
+  early design foundations project.
 date: '2019-03-24'
-thumb_image: images/11_thumb.jpg
+thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table

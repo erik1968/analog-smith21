@@ -63,13 +63,13 @@ sections:
     subtitle: >-
       A more intimate look at how I dove into my projects >> how I approach +
       piece together each project...
-    posts_number: 3
-    col_number: three
+    posts_number: 2
+    col_number: two
     actions:
       - label: View Project Journies
         url: blog
         style: button
-    title: Take a tour with me >> for the "how" + transparency
+    title: Take a trip with me >> form usually follows function
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
