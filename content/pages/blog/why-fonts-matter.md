@@ -46,6 +46,15 @@ layout: post
 
 ![](/\_static/app-assets/enthusiastic-pluto.png)
 
-I've played guitars for most of my life and honestly it never gets old as long as you're continully learning new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored." 
+I've played guitars for most of my life and honestly it never gets old as long as you keep it fresh & learn new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored."
 
-So, that's the "playing"/user exerience element of the craft, but what about actually designing guitars? That was something I had seriously attempted to do beyond my usual guitar doodles and sketches over the years. 
+So, that's the "playing"/user experience element of the craft, but what about actually designing guitars? Well, a few opportunities did come up during my time in the design program at EWU. 
+
+*   The first was a redesign of the iconic Gibson Flying “V”, then a Gibson Les Paul replica
+
+*   Followed by a Fender Jaguar
+
+*   And finally my 1st guitar design from scratch that is a re-imagined, future version of the old classic Fender Jaguar.
+
+Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
+
