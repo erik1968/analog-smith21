@@ -72,3 +72,6 @@ Here's some examples of how I layer the guitar components so they're easier to c
 
 ![](/\_static/app-assets/charming-chestnut.png)
 
+Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
+
+![](/\_static/app-assets/Frame%20for%20\(3\)%20Gibson%20LP%20Themes.png)
