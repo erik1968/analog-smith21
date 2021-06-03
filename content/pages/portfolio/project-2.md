@@ -77,7 +77,11 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 #####
 
-![](/images/modern-maple.png)
+
+
+#### ******
+
+
 
 ![](/images/festive-broccoli.png)
 
@@ -91,4 +95,12 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 [UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
-![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿![](https://www.dropbox.com/s/0cxjd7wc0bc9zl9/NikonD7500%5D%20copy.png?raw=1)
+![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿
+
+
+
+And, stayed tuned for the aptly named companion to ***Go Gold! ***with the ***Go Silver! Edition ***
+
+**\[ It's pretty much done check it out here ▶️ ]**
+
+![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)
