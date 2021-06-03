@@ -64,7 +64,7 @@ sections:
       A more intimate look at how I dove into my projects >> how I approach +
       piece together each project...
     posts_number: 3
-    col_number: three
+    col_number: two
     actions:
       - label: View Project Journies
         url: blog
