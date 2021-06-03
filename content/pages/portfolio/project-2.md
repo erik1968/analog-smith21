@@ -67,13 +67,7 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 [![](https://www.dropbox.com/s/n22cb25c8vhiplk/TriOminos%20Redesign%20\__%20GOLD%20Travel%20Edition%20V4%202021%20copy.png?raw=1)﻿﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
-![](/images/V4%20GameBrd+GrFX%20Scale-GOLD.png)
-
-
-
-
-
-
+![](/images/V4%20GameBrd+GrFX%20Scale-GOLD.png)![](https://www.dropbox.com/s/0cxjd7wc0bc9zl9/NikonD7500%5D%20copy.png?raw=1)
 
 ![](/images/important-sage.png)
 
