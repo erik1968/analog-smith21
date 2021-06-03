@@ -75,13 +75,7 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 ![](/images/Asset%20564X%203D%20Mockup%20in%20Ai%20Package%20DIELINES.png)
 
-#####
-
-
-
-#### ******
-
-
+####
 
 ![](/images/festive-broccoli.png)
 
@@ -97,10 +91,8 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 ![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿
 
+And, stayed tuned for the aptly named companion to ***Go Gold!*** with the ***Go Silver! Edition***
 
-
-And, stayed tuned for the aptly named companion to ***Go Gold! ***with the ***Go Silver! Edition ***
-
-**\[ It's pretty much done check it out here ▶️ ]**
+[**\[ It's pretty much done check it out here ▶️ \]**](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
 ![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)
