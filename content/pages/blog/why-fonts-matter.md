@@ -1,5 +1,5 @@
 ---
-title: I love designing detailed guitars using the creative tools we have
+title: "I love designing detailed guitars using the creative tools we have \U0001F3B8"
 thumb_image: images/polite-potato.png
 thumb_image_alt: A pile of books on the table
 image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
