@@ -74,3 +74,7 @@ Here's a few examples from my Figma experiments w/these Guitar Design Templates 
 ![](https://www.dropbox.com/s/9147ceoda561n73/Frame%20for%20%283%29%20Gibson%20LP%20Themes.png?raw=1)
 
 ![](https://www.dropbox.com/s/1tszmr47ejqus90/ESS_Custom-FlyingV_and_MegaStackAmps\_2020\_Figma.png?raw=1)
+
+⚡🎸  **CHECK OUT MY GUITAR FAVICONS **⚡🎸
+
+![](https://www.dropbox.com/s/i7ubp28qfgcnhph/ESS_FAVICONS_FigmaGuitarProject\_2020.png?raw=1)
