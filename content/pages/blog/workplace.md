@@ -4,9 +4,9 @@ title: >-
   thought project...
 excerpt: >-
   Russia used to be ruled by a vast empire known as "Great Tartaria".. So, when
-  I found this image I decided to express it in the context of the principles of
-  design [ as translated by designer Chipp Kidd in his "Go Exercises" we did in
-  an early design foundations project.
+  I found this image I decided explore visually in the context of the principles
+  of design as instructed by designer Chipp Kidd in his "Go Exercises" for an
+  early design foundations project.
 date: '2019-03-24'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
