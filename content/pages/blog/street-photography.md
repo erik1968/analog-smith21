@@ -53,15 +53,6 @@ So, this project is really just pushing the limits of what I could imagine compa
 
 ***
 
-***
-
 ![](https://www.dropbox.com/s/bkb61slsdp81i3a/ChipKiddGoExercises_Grp3of7\_190301\_ess-17-SMALL.png?raw=1)
 
-
-
-
-
-
-
 ![](https://www.dropbox.com/s/4mfkt0hbh02443b/ChipKiddGoExercises_Grp4of7\_190301\_ess-18-SMALL.png?raw=1)
-
