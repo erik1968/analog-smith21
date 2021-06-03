@@ -3,7 +3,7 @@ title: I love designing detailed guitars using the creative tools we have
 excerpt: >-
   TIME TO OPEN THE GUITAR BOX FOR YOUR VIEWERS: Amet nibh adipiscing adipiscing.
   Commodo ante vis placerat interdum massa massa primis.
-date: '2021-05-27'
+date: '2021-06-27'
 thumb_image: images/polite-potato.png
 thumb_image_alt: A pile of books on the table
 image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
