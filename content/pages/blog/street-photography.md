@@ -51,5 +51,5 @@ So, this project is really just pushing the limits of what I could imagine compa
 
 I don't know why, but I absolutely love how these turned out in there simple forms and places. It's a deep deep dive for me.. Maybe you too..
 
-
+![](https://www.dropbox.com/s/bkb61slsdp81i3a/ChipKiddGoExercises_Grp3of7\_190301\_ess-17-SMALL.png?raw=1)
 
