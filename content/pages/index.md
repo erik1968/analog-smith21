@@ -69,7 +69,7 @@ sections:
       - label: View Project Journies
         url: blog
         style: button
-    title: Take a tour with me >> for the "how" + transparency
+    title: Take a trip with me >> form usually follow function
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
