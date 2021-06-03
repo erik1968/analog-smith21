@@ -1,7 +1,7 @@
 ---
 title: >-
-  A UX/UI project that I dedicated to my #1 instrumental inspiration:: Eddie Van
-  Halen
+  Tartarian remnants in Russia:: What do we really know about our pasts? Deep
+  thoughts imagery..
 excerpt: >-
   GUITAR + FX + AMP EMULATION/SYM APP FOR MOBILE/TABLET PLAYERS:: Lorem ipsum
   dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
