@@ -75,7 +75,7 @@ the triangle shaped game packaging as of 2017 was retained, except for the backg
 
 ![](/images/Asset%20564X%203D%20Mockup%20in%20Ai%20Package%20DIELINES.png)
 
-####
+#### ![](https://www.dropbox.com/s/btj5s0xk3j4pnjr/TriOminos-Rdsn_GoGOLD_PlayBoardView_ess.png?raw=1)
 
 ![](/images/festive-broccoli.png)
 
