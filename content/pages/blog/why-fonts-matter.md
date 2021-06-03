@@ -72,3 +72,5 @@ Here's an example of how I layer the guitar components so they're easier to cust
 Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
 
 ![](https://www.dropbox.com/s/9147ceoda561n73/Frame%20for%20%283%29%20Gibson%20LP%20Themes.png?raw=1)
+
+![](https://www.dropbox.com/s/1tszmr47ejqus90/ESS_Custom-FlyingV_and_MegaStackAmps\_2020\_Figma.png?raw=1)
