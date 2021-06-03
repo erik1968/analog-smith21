@@ -5,7 +5,7 @@ title: >-
 date: '2019-03-10'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/8.jpg
+image: images/ChipKiddGoExercises_Grp1of7_190301_ess-11-SMALL.png
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: Understanding Street Photography
