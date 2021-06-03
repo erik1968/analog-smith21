@@ -68,3 +68,5 @@ Here’s some screenshots from those projects where I typically used Adobe Illus
 
 ![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht4.png)
 
+Here's some examples of how I layer the guitar components so they're easier to customize when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
+
