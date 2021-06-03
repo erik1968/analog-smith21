@@ -60,3 +60,8 @@ The posters above were from a portfolio class, Spring 2020. Because I used a lot
 
 Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
 
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht1.png)
+
+![](/\_static/app-assets/Fender-Jaguar_Redesign_ScrnSht3.png)
+
+![](/\_static/app-assets/adorable-lettuce.png)
