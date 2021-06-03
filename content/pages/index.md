@@ -66,7 +66,7 @@ sections:
     posts_number: 2
     col_number: two
     actions:
-      - label: View Project Journies
+      - label: Take some trips w/me >>>
         url: blog
         style: button
     title: Take a trip with me >> form usually follows function
