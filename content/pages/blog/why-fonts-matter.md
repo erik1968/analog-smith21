@@ -48,7 +48,7 @@ date: '2021-05-30'
 
 ![](https://www.dropbox.com/s/ohh1jzdroo1vys8/P4\__Fender-JaguarNewConceptModel-V2\_Poster1-FIXED-04.png?raw=1)
 
-
+![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
 I've played guitars for most of my life and honestly it never gets old as long as you keep it fresh & learn new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored."
 
@@ -74,4 +74,4 @@ Here's an example of how I layer the guitar components so they're easier to cust
 
 Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
 
-![](https://www.dropbox.com/s/9147ceoda561n73/Frame%20for%20%283%29%20Gibson%20LP%20Themes.png?raw=1)![](https://www.dropbox.com/s/ohh1jzdroo1vys8/P4\__Fender-JaguarNewConceptModel-V2\_Poster1-FIXED-04.png?raw=1)![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
+![](https://www.dropbox.com/s/9147ceoda561n73/Frame%20for%20%283%29%20Gibson%20LP%20Themes.png?raw=1)![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
