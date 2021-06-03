@@ -42,8 +42,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
+###### *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design.*
 
+![](/\_static/app-assets/enthusiastic-pluto.png)
 
-> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design.*
->
-> ![](/_static/app-assets/enthusiastic-pluto.png)
+I've played guitars for most of my life and honestly it never gets old as long as you're continully learning new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored." 
+
+So, that's the "playing"/user exerience element of the craft, but what about actually designing guitars? That was something I had seriously attempted to do beyond my usual guitar doodles and sketches over the years. 
