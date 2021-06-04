@@ -42,13 +42,17 @@ Here's a screenshot from the early phase/Lo-FI Wireframes [**this project in Fig
 
 ![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
 
+
+
+![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
+
 Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72)shown between iPhone Screens \[mockup] design:
 
 ![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
 
 ![](https://www.dropbox.com/s/q8f0sfytwd9zcnj/EVH_Gtr-App-iPhoneX_ess_Card1.png?raw=1)
 
-![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)![](https://www.dropbox.com/s/3f9ft2qofvhk29i/EVH_Gtr-App-iPhoneX_ess_Card2%20copy.png?raw=1)
+![](https://www.dropbox.com/s/3f9ft2qofvhk29i/EVH_Gtr-App-iPhoneX_ess_Card2%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/7gspfzp456ts5p6/EVH_Gtr-App-iPhoneX_ess_Card3%20copy.png?raw=1)
 
@@ -70,7 +74,9 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 
 ![](https://www.dropbox.com/s/dyc3krr0m17tju4/EVH_Gtr-App-iPhoneX_ess_Card11%20copy.png?raw=1)
 
-![](https://www.dropbox.com/s/3lh8bk17kxxp6ga/EVH_Gtr-App-iPhoneX_ess_Card12%20copy.png?raw=1)![](https://www.dropbox.com/s/4n65l2ilurzy0ra/EVH_Gtr-App-iPhoneX_ess_Card13%20copy.png?raw=1)
+![](https://www.dropbox.com/s/3lh8bk17kxxp6ga/EVH_Gtr-App-iPhoneX_ess_Card12%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/4n65l2ilurzy0ra/EVH_Gtr-App-iPhoneX_ess_Card13%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/nnjd4tjzrff0pzn/EVH_Gtr-App-iPhoneX_ess_Card14%20copy.png?raw=1)
 
@@ -79,3 +85,7 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 ![](https://www.dropbox.com/s/954rwjojpjvdh5i/EVH_Gtr-App-iPhoneX_ess_Card17%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/whvk8jg2tcl6dcm/EVH_Gtr-App-iPhoneX_ess_Card18%20copy.png?raw=1)
+
+
+
+![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
