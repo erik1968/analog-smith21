@@ -49,7 +49,7 @@ Here's what an encyclopia said about it:
 
 ![](https://preview--analog-smith21-3d50e.stackbit.dev/\_static/app-assets/ChipKiddGoExercises_Grp1of7\_190301\_ess-11-SMALL.png)
 
-So, this project is really just pushing the limits of what I could imagine compared to the most simple and reduced version of itself >>> if that makes an sense? If not, it's ok, because this was the most openly estoteric (is that possible?) expression of what I could create related to each of the principles of design for this exercise.
+Well, at the time I bought it, I had an assignment Visual Comm Design I was stuck in >> basically, our professor created a project centered around an exercise about "form" based on designer Chip Kidd's "Go Exercises" \[ source/citation here! ]. So, she asked to find a single photograph and use it repeatedly in 18 or 19 compositions where each sheet/page was an abstraction of one of the core principles of graphic design, e.g., scale, inversion, focus, juxtaposition, image quality, color theory, etc... And, the rules were basically to make it as minimal / reductive / abstract as possible >> just enough marks that the principle depicted is self-explanatory/instantly recognizable. Yeah, like a logo. So, this project is really just pushing the limits of what I could imagine compared to the most simple and reduced version of itself >>> if that makes an sense? If not, it's ok, because this was the most openly estoteric (is that possible?) expression of what I could create related to each of the principles of design for this exercise.
 
 ###### ![](https://www.dropbox.com/s/23b8nzlj1f6ie01/ChipKiddGoExercises_Grp2of7\_190301\_ess-16-SMALL.png?raw=1)
 
