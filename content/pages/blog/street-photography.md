@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-A little bit about this interesting photography Russia was allegedly \[debated in scholarly circles] ruled by a vast + forgotten empire known as "Great Tartaria." So, when I found this image \[an ancient Egyptian-like chimera sculpture] I decided to research + explore it visually in the context of an exercise created by designer Chip Kidd that helps us comprehend the core essentials of good design.
+A little bit about this interesting photograph I found & purchased (123rf) titled, "Cityscape of St, Petersburg, the Bridge and the Sphinx" \[credit:  Russia was allegedly \[debated in scholarly circles] ruled by a vast + forgotten empire known as "Great Tartaria." So, when I found this image \[an ancient Egyptian-like chimera sculpture] I decided to research + explore it visually in the context of an exercise created by designer Chip Kidd that helps us comprehend the core essentials of good design.
 
 ![](https://preview--analog-smith21-3d50e.stackbit.dev/\_static/app-assets/ChipKiddGoExercises_Grp1of7\_190301\_ess-11-SMALL.png)
 
