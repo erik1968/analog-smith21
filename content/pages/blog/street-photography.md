@@ -1,7 +1,7 @@
 ---
 title: >-
-  My first trip into the realm of abstract design principles and concepts using
-  Chip Kidd's "Go Exercises" at EWU
+  My first trip into the realm of abstract design principles for a Visual Design
+  project at EWU
 date: '2019-03-10'
 thumb_image: images/Stewart-SmithE_ChipKidGoExercises-Legal-Purchased-Image_800px.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
