@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-A little bit about this interesting photograph I found & purchased (123rf) titled, "Cityscape of St, Petersburg, the Bridge and the Sphinx" \[credit:  Russia was allegedly \[debated in scholarly circles] ruled by a vast + forgotten empire known as "Great Tartaria." So, when I found this image \[an ancient Egyptian-like chimera sculpture] I decided to research + explore it visually in the context of an exercise created by designer Chip Kidd that helps us comprehend the core essentials of good design.
+A little bit about this interesting photograph I found & purchased (123rf) titled, "Cityscape of St, Petersburg, the Bridge and the Sphinx" \[[copyright/credit: kosmos111, Russian Federation](https://www.123rf.com/profile_kosmos111)]. Russia has a long long history, rich with amazing stories, events >> resilient diverse cultures who endured all kinds of challenges, always adapting and perservering throughout the centuries. Well, I love reading books, and especially enjoy learning about interesting places like Russia. In fact, I had done some research about Russia in 2017 I decided to research + explore it visually in the context of an exercise created by designer Chip Kidd that helps us comprehend the core essentials of good design.
 
 ![](https://preview--analog-smith21-3d50e.stackbit.dev/\_static/app-assets/ChipKiddGoExercises_Grp1of7\_190301\_ess-11-SMALL.png)
 
