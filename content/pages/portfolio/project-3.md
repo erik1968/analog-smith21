@@ -48,4 +48,14 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 
 ![](https://www.dropbox.com/s/q8f0sfytwd9zcnj/EVH_Gtr-App-iPhoneX_ess_Card1.png?raw=1)
 
-![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
+![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)![](https://www.dropbox.com/s/3f9ft2qofvhk29i/EVH_Gtr-App-iPhoneX_ess_Card2%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/7gspfzp456ts5p6/EVH_Gtr-App-iPhoneX_ess_Card3%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/qp7mdmwxrwhdds9/EVH_Gtr-App-iPhoneX_ess_Card4%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/i6p2a4s93erwtip/EVH_Gtr-App-iPhoneX_ess_Card5%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/uydg9v756gjbcfe/EVH_Gtr-App-iPhoneX_ess_Card6%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/wv7x8pkqunp1fre/EVH_Gtr-App-iPhoneX_ess_Card7%20copy.png?raw=1)
