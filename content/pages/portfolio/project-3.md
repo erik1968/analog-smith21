@@ -51,3 +51,5 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 ![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)![](https://www.dropbox.com/s/3f9ft2qofvhk29i/EVH_Gtr-App-iPhoneX_ess_Card2%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/7gspfzp456ts5p6/EVH_Gtr-App-iPhoneX_ess_Card3%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/qp7mdmwxrwhdds9/EVH_Gtr-App-iPhoneX_ess_Card4%20copy.png?raw=1)
