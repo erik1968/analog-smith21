@@ -63,3 +63,5 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 ![](https://www.dropbox.com/s/lze8ugkaq6oqjhl/EVH_Gtr-App-iPhoneX_ess_Card8%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/dq1wxebvq37cwa2/EVH_Gtr-App-iPhoneX_ess_Card9%20copy.png?raw=1)
+
+![](https://www.dropbox.com/s/5rlo30nvvouow9c/EVH_Gtr-App-iPhoneX_ess_Card10%20copy.png?raw=1)
