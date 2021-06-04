@@ -42,6 +42,10 @@ Here's a screenshot from the early phase/Lo-FI Wireframes [**this project in Fig
 
 ![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
 
+
+
+![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
+
 Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72)shown between iPhone Screens \[mockup] design:
 
 ![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
