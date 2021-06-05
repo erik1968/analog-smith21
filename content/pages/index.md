@@ -60,9 +60,6 @@ sections:
         content: Those were some yummie critters
   - section_id: latest-posts
     type: section_posts
-    subtitle: >-
-      A more intimate look at how I dove into my projects >> how I approach +
-      piece together each project...
     posts_number: 2
     col_number: two
     actions:
