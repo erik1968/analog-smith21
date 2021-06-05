@@ -2,7 +2,7 @@
 title: >-
   My first trip into the realm of abstract design principles for a Visual Design
   project at EWU
-date: '2019-03-10'
+date: '2021-06-10'
 thumb_image: images/AnalogSmith_ChipKiddGoExs12_forBlogThumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/ChipKiddGoExercises_Grp7of7_190301_ess-20.png
@@ -41,21 +41,12 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Lorem ipsum dolor sit amet, 
-consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse 
-tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut 
-bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper 
-lectus hendrerit ut.
+This was a project early-on in my training in EWU’s Visual Communication Design program (c. winter 2019), so I was still getting used to all the digital design tools. Nevertheless, I really liked how these compositions turned out! 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Basically, this project was an exploration into the core concepts of design related to ***“how things look,” aka: FORM*** \[ Credits/Cite this to Prof “GH” + “GO A Kidd’s Guide to Graphic Design, by Chip Kidd” ].
 
-In
- sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod 
-turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet 
-accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie
- tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu 
-pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor 
-accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed 
-libero consequat consectetur eu tincidunt nulla. 
+No, seriously, this was a really challenging project that forced me to think at the most elementary levels of perception, perspective and contextual learning. And, reminds me of some of the elementary/essential Bauhaus (Germany) exposure and training we also received early in the program.
 
-*Thank You for reading!*
+And, of course it all makes a lot more sense later in the game once you’ve had a chance to learn + practice more. Now, in retrospect, I can see + respect why our teachers chose these projects and exercises. It’s very effective and I hope you can agree after you gone down this rabbit hole with me… 
+
+***Viewer challenge::** can you tell which principles of formative design I’m showing you from one composition to the next? Hint: I’ve failed if you can’t. No worries, more reason to practice practice practice!*
