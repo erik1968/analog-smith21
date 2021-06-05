@@ -41,9 +41,9 @@ seo:
       relativeUrl: true
 layout: project
 ---
-> A branding project that evolved into an arguably 
+> A branding project that evolved into an arguably
 >
-> ***user/player-centered product idea***
+> *user/player-centered product idea*
 
 ###### I have all the content I need now, including brand new, studio quality (shot in new light tent) product photos of the revised and new surfrace printed packages.
 
