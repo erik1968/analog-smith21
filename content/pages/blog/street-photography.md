@@ -50,3 +50,5 @@ No, seriously, this was a really challenging project that forced me to think at 
 And, of course it all makes a lot more sense later in the game once you’ve had a chance to learn + practice more. Now, in retrospect, I can see + respect why our teachers chose these projects and exercises. It’s very effective and I hope you can agree after you gone down this rabbit hole with me.
 
 # 🤔 ![](https://www.dropbox.com/s/qpmfvpx2wulhxgt/AnalogSmith_ChipKiddGoExs.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/co5r9jkk0oxg489/AnalogSmith_ChipKiddGoExs2.jpg?raw=1)
