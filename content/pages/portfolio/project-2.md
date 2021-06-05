@@ -49,9 +49,9 @@ layout: project
 ---
 ### [﻿﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)**Deliverables ::**
 
-Improved Game Instructions, and a funner, more engaging game playing experience by changing the design of the game pieces and the game playing surface for all situations, at home, on the road, whatever >> this deliverable must be a 3D tested solution...
+Improved Game Instructions, and a funner, more engaged game playing experience with a redesigned 'gaming platform' + new game pieces and a game playing surface for all situations, at home, on the road, whatever >> this deliverable must be a 3D tested solution...
 
-> "This project allowed me to push the limits of what I'd been taught about UX, Web and Visual design...
+> This project allowed me to push the limits of what I'd been taught about UX, Web and Visual design...
 
 ### **Project Goals & Summary ::**
 
@@ -96,4 +96,3 @@ And, stayed tuned for the aptly named companion to ***Go Gold!*** with the ***Go
 [**\[ It's pretty much done check it out here ▶️ \]**](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
 ![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)
-
