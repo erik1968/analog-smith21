@@ -66,7 +66,7 @@ sections:
       - label: Take some trips w/me >>>
         url: blog
         style: button
-    title: Take a trip with me >> form usually follows function
+    title: Life is a trip >>>
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
