@@ -37,11 +37,11 @@ layout: project
 
 ###### Interactive digital conversion prototype of the existing reference analog toaster-convection oven, including:
 
-> Standardized & interactive digital control panel for further development [ Component: “Control Panel Template” ]
+*   **Standardized & interactive digital control panel for further development \[ Component: “Control Panel Template” ]**
 
-> Product Mock-Up, including the Control Panel Template
+*   **Product Mock-Up, including the Control Panel Template**
 
-> A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...
+*   **A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...**
 
 ## **Project Objective ::**
 
