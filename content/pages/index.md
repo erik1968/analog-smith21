@@ -60,16 +60,13 @@ sections:
         content: Those were some yummie critters
   - section_id: latest-posts
     type: section_posts
-    subtitle: >-
-      A more intimate look at how I dove into my projects >> how I approach +
-      piece together each project...
     posts_number: 2
     col_number: two
     actions:
       - label: Take some trips w/me >>>
         url: blog
         style: button
-    title: Take a trip with me >> form usually follows function
+    title: Life is a trip >>>
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
