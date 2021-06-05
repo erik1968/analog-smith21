@@ -50,3 +50,6 @@ No, seriously, this was a really challenging project that forced me to think at 
 And, of course it all makes a lot more sense later in the game once you’ve had a chance to learn + practice more. Now, in retrospect, I can see + respect why our teachers chose these projects and exercises. It’s very effective and I hope you can agree after you gone down this rabbit hole with me… 
 
 ***Viewer challenge::** can you tell which principles of formative design I’m showing you from one composition to the next? Hint: I’ve failed if you can’t. No worries, more reason to practice practice practice!*
+
+# 🤔
+
