@@ -52,3 +52,5 @@ And, of course it all makes a lot more sense later in the game once you’ve had
 # 🤔 ![](https://www.dropbox.com/s/qpmfvpx2wulhxgt/AnalogSmith_ChipKiddGoExs.jpg?raw=1)
 
 # 🤔 ![](https://www.dropbox.com/s/co5r9jkk0oxg489/AnalogSmith_ChipKiddGoExs2.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/q9mp49ru3nvun94/AnalogSmith_ChipKiddGoExs3.jpg?raw=1)
