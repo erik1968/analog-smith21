@@ -80,3 +80,7 @@ And, of course it all makes a lot more sense later in the game once you’ve had
 # 🤔 ![](https://www.dropbox.com/s/jhn3lioi6thj9rs/AnalogSmith_ChipKiddGoExs15.jpg?raw=1)
 
 # 🤔 ![](https://www.dropbox.com/s/zbau24t7joapqof/AnalogSmith_ChipKiddGoExs16.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/80y1hegzf83045d/AnalogSmith_ChipKiddGoExs17.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/0f2xjkyj87yq0ig/AnalogSmith_ChipKiddGoExs19.jpg?raw=1)
