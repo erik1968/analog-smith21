@@ -36,16 +36,10 @@ seo:
 layout: project
 title: Visual Design > Foundations
 ---
-> Big things have small beginnings" - T.E. Lawrence, from Lawrence of Arabia
-
-
-
-I'm still working on this level of content >> that is, WORDS.... So, it's a work in progress, but it's getting there faster now.. 
-
-### >>> Essentials:: History of Design > Schools > Bauhuas \[inspired poster]
+### **>>> ESSENTIALS >> HISTORY OF DESIGN >**
 
 ### ![](/images/pink-sloth.png)
 
-### >>> Essentials:: Layout & Grid
+### **>> Essentials:: Layout & Grid**
 
 ![](/images/Stewart-SmithErik_P4-layoutCompV5a\_800x800.jpg)

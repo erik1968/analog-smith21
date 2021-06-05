@@ -34,19 +34,17 @@ seo:
       relativeUrl: true
 layout: project
 ---
-This was my first "app" development project and I had a blast doing it as I got to take advantage of all my years of playing guitars and experience working with all sorts of sound effects (pedals mostly), amps, heads and recording equipment. Here's a snapshot of what the project involved::
+> This was my first "app" development project and I had a blast doing it as I got to take advantage of all my years of playing guitars and experience working with all sorts of sound effects (pedals mostly), amps, heads and recording equipment. Here's a snapshot of what the project involved::
 
 ![](/images/P3%20GTR-FX-MobileApp_TributeEVH\_2020ess.png)
 
-Here's a screenshot from the early phase/Lo-FI Wireframes [**this project in Figma**](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72):
+###### Here's a screenshot from the early phase/Lo-FI Wireframes [**this project in Figma**](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72):
 
 ![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
 
-
-
 ![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
-Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72)shown between iPhone Screens \[mockup] design:
+###### Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=5%3A72)shown between iPhone Screens \[mockup] design:
 
 ![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
 
@@ -85,7 +83,5 @@ Here's a full view of the project in [**Figma w/Prototype Wiring** ](https://www
 ![](https://www.dropbox.com/s/954rwjojpjvdh5i/EVH_Gtr-App-iPhoneX_ess_Card17%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/whvk8jg2tcl6dcm/EVH_Gtr-App-iPhoneX_ess_Card18%20copy.png?raw=1)
-
-
 
 ![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)

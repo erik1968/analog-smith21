@@ -33,19 +33,17 @@ seo:
       relativeUrl: true
 layout: project
 ---
-**Deliverables ::**
+# **Deliverables ::**
 
-Interactive digital conversion prototype of the existing reference analog toaster-convection oven, including:
+###### Interactive digital conversion prototype of the existing reference analog toaster-convection oven, including:
 
-*   Standardized & interactive digital control panel for further development \[ Component: “Control Panel Template” ]
+*   **Standardized & interactive digital control panel for further development \[ Component: “Control Panel Template” ]**
 
-*   Product Mock-Up, including the Control Panel Template
+*   **Product Mock-Up, including the Control Panel Template**
 
-*   A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...
+*   **A functional digital rendering of the original toaster oven design that includes all the original functions + new options, e.g., “Pizza”...**
 
-> ##### **"Design, don't decorate" -who said this first?**
-
-#### **Project Objective ::**
+## **Project Objective ::**
 
 As this was an early project in my UX training, I wanted to take a totally analog appliance through the redesign steps required to conceptually and visually transform its user-interface, i.e., operating buttons and dials, into a digital appliance interface.
 
@@ -57,11 +55,6 @@ As this was an early project in my UX training, I wanted to take a totally analo
 
 ![](https://www.dropbox.com/s/3isc10vz7pilciw/Screen%20Shot%202021-06-03%20at%2012.39.38%20AM.png?raw=1)
 
-
-
 ![](https://www.dropbox.com/s/3zoud3zprwkhuvw/Screen%20Shot%202021-06-03%20at%2012.39.59%20AM.png?raw=1)
 
-
-
 ![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)
-
