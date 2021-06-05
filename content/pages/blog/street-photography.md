@@ -54,3 +54,17 @@ And, of course it all makes a lot more sense later in the game once you’ve had
 # 🤔 ![](https://www.dropbox.com/s/co5r9jkk0oxg489/AnalogSmith_ChipKiddGoExs2.jpg?raw=1)
 
 # 🤔 ![](https://www.dropbox.com/s/q9mp49ru3nvun94/AnalogSmith_ChipKiddGoExs3.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/3kipf1p24fl7zwe/AnalogSmith_ChipKiddGoExs4.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/9reuv1b0wb7orq1/AnalogSmith_ChipKiddGoExs5.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/abi6tr7q9dnxpnc/AnalogSmith_ChipKiddGoExs6.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/34e4viynibecukd/AnalogSmith_ChipKiddGoExs7.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/9ypldiemtwm25me/AnalogSmith_ChipKiddGoExs8.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/2zlnld8gpou7iz4/AnalogSmith_ChipKiddGoExs9.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/vcn5qtm53ugxfl0/AnalogSmith_ChipKiddGoExs10.jpg?raw=1)
