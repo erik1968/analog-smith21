@@ -68,3 +68,19 @@ And, of course it all makes a lot more sense later in the game once you’ve had
 # 🤔 ![](https://www.dropbox.com/s/2zlnld8gpou7iz4/AnalogSmith_ChipKiddGoExs9.jpg?raw=1)
 
 # 🤔 ![](https://www.dropbox.com/s/vcn5qtm53ugxfl0/AnalogSmith_ChipKiddGoExs10.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/o3g4bza9ikwif3z/AnalogSmith_ChipKiddGoExs11.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/ndn4qlmaahuyodc/AnalogSmith_ChipKiddGoExs12.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/yuxp2ka8h2e7ufz/AnalogSmith_ChipKiddGoExs13.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/dizidj4imbg4fgf/AnalogSmith_ChipKiddGoExs14.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/jhn3lioi6thj9rs/AnalogSmith_ChipKiddGoExs15.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/zbau24t7joapqof/AnalogSmith_ChipKiddGoExs16.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/80y1hegzf83045d/AnalogSmith_ChipKiddGoExs17.jpg?raw=1)
+
+# 🤔 ![](https://www.dropbox.com/s/0f2xjkyj87yq0ig/AnalogSmith_ChipKiddGoExs19.jpg?raw=1)
