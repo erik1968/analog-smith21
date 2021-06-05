@@ -40,6 +40,6 @@ title: Visual Design > Foundations
 
 ### ![](/images/pink-sloth.png)
 
-### **>>> Essentials:: Layout & Grid**
+### **>> Essentials:: Layout & Grid**
 
 ![](/images/Stewart-SmithErik_P4-layoutCompV5a\_800x800.jpg)
