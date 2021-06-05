@@ -36,7 +36,7 @@ seo:
 layout: project
 title: Visual Design > Foundations
 ---
-#### **>>> Essentials:: History of Design > Schools > **
+### **>>> ESSENTIALS >> HISTORY OF DESIGN >**
 
 ### ![](/images/pink-sloth.png)
 
