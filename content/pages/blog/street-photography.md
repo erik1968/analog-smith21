@@ -2,7 +2,7 @@
 title: >-
   My first trip into the realm of abstract design principles for a Visual Design
   project at EWU
-date: '2021-03-10'
+date: '2021-06-10'
 thumb_image: images/AnalogSmith_ChipKiddGoExs12_forBlogThumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/ChipKiddGoExercises_Grp7of7_190301_ess-20.png
