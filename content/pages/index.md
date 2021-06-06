@@ -12,6 +12,10 @@ sections:
       project:: Logos, Branding, General Graphic/Visual Design + Imagery, Biz
       Cards, Stickers, Posters, Signs, and UX/UI, Website Development,
       Audio-Instrumental Integration, Photographic and Print services...
+
+
+      > If you take a look around you'll find that I've gotten a lot of practice
+      doing Re-Design & Re-mix projects
     actions:
       - label: Reach out >>>
         url: /contact
