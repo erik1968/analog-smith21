@@ -49,11 +49,11 @@ date: '2021-05-30'
 
 The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-resolution metallic vector graphics + a lot of shadowing, and filter FX in order to make them look more real, the .ai files were HUGE!!! But, it was worth the extra efforts as I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.
 
-##### 🎸 ***The first was a redesign of the iconic Gibson***®*** Flying “V”, then a Gibson***®*** Les Paul replica***
+##### 🎸 ***The first was a redesign of the iconic Gibson***® ***Flying V & Les Paul models***
 
-##### 🎸 ***Followed by a Fender***® ***Jaguar***
+##### 🎸 ***Followed by a Fender***® ***Jaguar translation***
 
-##### **🎸 *And finally my 1st guitar design from scratch that is a re-imagined, future version of the old classic Fender***® ***Jaguar***
+##### **🎸 *And finally my 1st guitar design from scratch that is a re-imagined, new version of the old classic Fender***® ***Jaguar***
 
 Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
 
