@@ -47,10 +47,6 @@ date: '2021-05-30'
 
 ![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
-I've played guitars for most of my life and honestly it never gets old as long as you keep it fresh & learn new songs, riffs, chords, scales, etc.. And, with zillions of guitar instructions, tuts & lessons available >> most for free! >> on video sharing platforms like Youtube, there's no reason a guitarist should ever get "bored."
-
-So, that's the "playing"/user experience element of the craft, but what about actually designing guitars? Well, a few opportunities did come up during my time in the design program at EWU. 
-
 The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-resolution metallic vector graphics + a lot of shadowing, and filter FX in order to make them look more real, the .ai files were HUGE!!! But, it was worth the extra efforts as I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.
 
 ##### 🎸 ***The first was a redesign of the iconic Gibson Flying “V”, then a Gibson Les Paul replica***
@@ -69,11 +65,7 @@ Here's an example of how I **layer the guitar components + give every single pie
 
 ![](https://www.dropbox.com/s/buemjnbe86qe8he/charming-chestnut.png?raw=1)
 
-
-
 ![](https://www.dropbox.com/s/k62hvv2b1t6ns51/Screen%20Shot%202021-06-03%20at%202.06.22%20PM.png?raw=1)
-
-
 
 Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
 
@@ -84,4 +76,3 @@ Here's a few examples from my Figma experiments w/these Guitar Design Templates 
 ##### **⚡🎸 CHECK OUT MY GUITAR FAVICONS ⚡🎸**
 
 ![](https://www.dropbox.com/s/i7ubp28qfgcnhph/ESS_FAVICONS_FigmaGuitarProject\_2020.png?raw=1)
-
