@@ -51,9 +51,9 @@ The posters above were from a portfolio class, Spring 2020. Because I used a lot
 
 ##### 🎸 ***The first was a redesign of the iconic Gibson Flying “V”, then a Gibson Les Paul replica***
 
-##### 🎸 ***Followed by a Fender***®*** Jaguar***
+##### 🎸 ***Followed by a Fender***® ***Jaguar***
 
-##### **🎸 *And finally my 1st guitar design from scratch that is a re-imagined, future version of the old classic Fender***®*** Jaguar***
+##### **🎸 *And finally my 1st guitar design from scratch that is a re-imagined, future version of the old classic Fender***® ***Jaguar***
 
 Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
 
