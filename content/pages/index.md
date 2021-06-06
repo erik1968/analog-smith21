@@ -53,7 +53,7 @@ sections:
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: Chillin like a villin
+        content: Chillin like a villain
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
