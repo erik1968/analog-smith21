@@ -63,7 +63,7 @@ The goal the from beginning was to improve the instructions and game playing exp
 
 So, the triangle shaped game packaging as of 2017 was retained, except for the background color -- black to red. And, the instructions were revised significantly with extra emphasis on type weight, size and contrast to make them easier to read, especially at smaller type sizes.
 
-*But, when it came time to create a 3D mockup a real problem had to to be solved: how to handle the costs of producing the new hexagon shaped instructions + half-a-dozen triangular magnetic game “board” sheets? If I kept the orignal size scale, the magnets alone could kill this project*
+###### *But, when it came time to create a 3D mockup a real problem had to to be solved: how to handle the costs of producing the new hexagon shaped instructions + half-a-dozen triangular magnetic game “board” sheets? If I kept the orignal size scale, the magnets alone could kill this project*
 
 > **I remember thinking: why didn’t I catch this?!**
 
