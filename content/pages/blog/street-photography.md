@@ -41,13 +41,15 @@ seo:
       relativeUrl: true
 layout: post
 ---
-This was a project early-on in my training in EWU’s Visual Communication Design program (c. winter 2019), so I was still getting used to all the digital design tools. Nevertheless, I really liked how these compositions turned out! 
+This was a project early-on in my training in EWU’s Visual Communication Design program (c. winter 2019), so I was still getting used to all the digital design tools.
+
+> *For some reason I really like how these compositions turned out >> but, honestly I don't understand why as I am not that abstract or minimal...*
 
 Basically, this project was an exploration into the core concepts of design related to ***“how things look,” aka: FORM*** *\[ >>> Huge KUDOS to Prof Ginelle Hustrulid + the text “GO A Kidd’s Guide to Graphic Design, by Chip Kidd” ].*
 
-No, seriously, this was a really challenging project that forced me to think at the most elementary levels of perception, perspective and contextual learning. And, reminds me of some of the elementary/essential Bauhaus (Germany) exposure and training we also received early in the program.
+No, seriously, this was a really challenging project that ***forced me to think at the most elementary levels of perception, perspective and contextual learning.*** And, reminds me of some of the essential Bauhaus (Germany) exposure and training we also received early in the program.
 
-And, of course it all makes a lot more sense later in the game once you’ve had a chance to learn + practice more. Now, in retrospect, I can see + respect why our teachers chose these projects and exercises. It’s very effective and I hope you can agree after you gone down this rabbit hole with me.
+And, of course ***it all makes a lot more sense later in the game*** once you’ve had a chance to learn and practice more. In retrospect, ***I can clearly see why*** our teachers chose these projects and exercises. ***It’s very effective and I hope you can agree after you gone down this rabbit hole with me.***
 
 # 🤔 ![](https://www.dropbox.com/s/qpmfvpx2wulhxgt/AnalogSmith_ChipKiddGoExs.jpg?raw=1)
 
