@@ -9,13 +9,12 @@ sections:
 
 
       \>>> Hello, thank you for stopping by.. Let me help you with your next
-      project:: Logos, Branding, General Graphic/Visual Design + Imagery, Biz
-      Cards, Stickers, Posters, Signs, and UX/UI, Website Development,
+      project:: Logos, Branding, General Graphic Design + Imagery, Biz Cards,
+      Stickers, Posters, Signs; including >>> UX >> UI > Web Design,
       Audio-Instrumental Integration, Photographic and Print services...
 
 
-      > *If you take a look around you'll find that I've gotten a lot of
-      practice doing Re-Design & Re-mix projects*
+      > *I have a lot of practice with + dig doing Re-Design & Re-mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
