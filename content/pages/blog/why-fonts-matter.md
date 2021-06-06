@@ -61,7 +61,7 @@ Here’s some screenshots from those projects where I typically used Adobe Illus
 
 ![](https://www.dropbox.com/s/mh2d27wrthfsr2b/Fender-Jaguar_Redesign_ScrnSht2A.png?raw=1)
 
-*Here's an example of how I layer the guitar components **+ give every single piece a function-title*** before exporting from assets in Adobe Illustrator to Figma for further customizing/project integration *and* ***so they're easier to customize at detail ***when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
+*Here's an example of how I layer the guitar components **+ give every single piece a function-title*** before exporting from assets in Adobe Illustrator to Figma for further customizing/project integration *and* ***so they're easier to customize*** at detail when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
 
 ![](https://www.dropbox.com/s/buemjnbe86qe8he/charming-chestnut.png?raw=1)
 
@@ -73,6 +73,6 @@ Here's a few examples from my Figma experiments w/these Guitar Design Templates 
 
 ![](https://www.dropbox.com/s/1tszmr47ejqus90/ESS_Custom-FlyingV_and_MegaStackAmps\_2020\_Figma.png?raw=1)
 
-#### **⚡🎸***MESSING AROUND W/SOME GUITAR FAVICONS*** ⚡🎸**
+#### **⚡🎸***MESSING AROUND W/SOME GUITAR FAVICONS*\*\* ⚡🎸\*\*
 
 ![](https://www.dropbox.com/s/i7ubp28qfgcnhph/ESS_FAVICONS_FigmaGuitarProject\_2020.png?raw=1)
