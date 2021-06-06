@@ -57,7 +57,7 @@ sections:
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
-        content: Those were some yummie critters
+        content: Mmmm yummy!
   - section_id: latest-posts
     type: section_posts
     posts_number: 2
