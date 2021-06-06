@@ -41,7 +41,9 @@ seo:
       relativeUrl: true
 layout: post
 ---
-This was a project early-on in my training in EWU’s Visual Communication Design program (c. winter 2019), so I was still getting used to all the digital design tools. 
+This was a project early-on in my training in EWU’s Visual Communication Design program (c. winter 2019), so I was still getting used to all the digital design tools.
+
+> *For **some reason** I really like how these compositions turned out*
 
 Basically, this project was an exploration into the core concepts of design related to ***“how things look,” aka: FORM*** *\[ >>> Huge KUDOS to Prof Ginelle Hustrulid + the text “GO A Kidd’s Guide to Graphic Design, by Chip Kidd” ].*
 
