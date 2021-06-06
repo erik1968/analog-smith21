@@ -12,6 +12,10 @@ sections:
       project:: Logos, Branding, General Graphic/Visual Design + Imagery, Biz
       Cards, Stickers, Posters, Signs, and UX/UI, Website Development,
       Audio-Instrumental Integration, Photographic and Print services...
+
+
+      > *If you take a look around you'll find that I've gotten a lot of
+      practice doing Re-Design & Re-mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
@@ -49,15 +53,15 @@ sections:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: 'Hey JJ, what up?'
+        content: My mommy does this to me sometimes..
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
-        content: Now what?
+        content: Chillin like a villain
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
-        content: Those were some yummie critters
+        content: Mmmm yummy!
   - section_id: latest-posts
     type: section_posts
     posts_number: 2
