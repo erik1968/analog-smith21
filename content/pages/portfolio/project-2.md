@@ -6,8 +6,8 @@ subtitle: >-
   college and more, like going from:: flat, 2D packaging dielines to its digital
   3D scale equivalents in Adobe Illustrator, then replicate it all to scale with
   a real folding, magnetic game board+case >> Thanks in good part to a
-  conceptually similar design in production by ChessArmory.com > thank you! >
-  because, it was ChessArmory's overall game board design that allowed me to
+  conceptually similar design in production by ChessArmory.com® > thank you! >
+  because, it was ChessArmory's® overall game board design that allowed me to
   explore my goal and custom design the magnetic game pieces/tiles, design and
   print a new surface graphic pattern, and more >> like practice product
   photography and image processing >> and, then practice dieline+surface
