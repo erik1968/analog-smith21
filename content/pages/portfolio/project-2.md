@@ -1,5 +1,5 @@
 ---
-title: 'Project II > Board Game Redesign [ Triominos ]'
+title: 'Project II > Board Game Redesign [ Triominos® ]'
 subtitle: >-
   This was the perfect UX design project to take all the way to the finish line
   so to speak >> tested and challenged pretty much everything I had learned in
