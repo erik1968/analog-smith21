@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-> ###### I have all the content I need now.. Stay tuned...
+> ###### I have all the content I need now.. Stay tuned >>>
 
 ###### Here's a short project presentation **with** the new product photos on Behance::
 
