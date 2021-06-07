@@ -47,7 +47,7 @@ date: '2021-05-30'
 
 ![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
-The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-res metallic vector graphics + tons of shadowing + filter FX in order to make them look more real, the .ai files were really BIG! It was a problem for my computer for sure, but we emerged resilient as ever! ***KARMA BONUS: **I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.*
+The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-res metallic vector graphics + tons of shadowing + filter FX in order to make them look more real, the .ai files were really BIG! It was a problem for my computer for sure, but we emerged resilient as ever! **KARMA BONUS:* I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.***
 
 ##### 🎸 ***The first was a redesign of the iconic Gibson***® ***Flying V & Les Paul models***
 
