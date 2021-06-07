@@ -8,7 +8,7 @@ thumb_image_alt: Hello this way printed on a red metal gate
 image: images/ChipKiddGoExercises_Grp7of7_190301_ess-20.png
 image_alt: Hello this way printed on a red metal gate
 seo:
-  title: Understanding Street Photography
+  title: My 1st Trip in Abstraction
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
