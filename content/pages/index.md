@@ -8,10 +8,10 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      ###### >>> Hello, thank you for stopping by.. What can I help you with?
+      ##### >>> Hello, thank you for stopping by.. What can I help you with?
       That's exactly why I started building this site: please snoop around a
       little more and you will know what I can help you with in the realms of:
-      Visual + UX + Web + Photo + Music related projects 
+      Visual + UX + Web + Photo + Music related projects
 
 
       > *I have a lot of practice with + dig doing Re-Design & Re-mix projects*
