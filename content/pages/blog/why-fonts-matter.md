@@ -47,13 +47,15 @@ date: '2021-05-30'
 
 ![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
-The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-resolution metallic vector graphics + a lot of shadowing, and filter FX in order to make them look more real, the .ai files were HUGE!!! But, it was worth the extra efforts as I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools.
+The posters above were from a portfolio class, Spring 2020. Because I used a lot of hi-res metallic vector graphics + tons of shadowing + filter FX in order to make them look more real, the .ai files were really BIG!
 
-##### 🎸 ***The first was a redesign of the iconic Gibson***® ***Flying V & Les Paul models***
+###### ***BONUS: I learned a ton about high detail rendering techniques and how to get the most out of textures, patterns and FX w/the tools***
 
-##### 🎸 ***Followed by a Fender***® ***Jaguar translation***
+##### 🎸 ***The first was a redesign of the 1968 Fender***® ***Jaguar***
 
-##### **🎸 *And finally my 1st guitar design from scratch that is a re-imagined, new version of the old classic Fender***® ***Jaguar***
+##### **🎸 *Next, was a re-imagined >> future version of the '68 Jaguar collaboration w/old guitarist friend that resulted in the more chiseled & minimal "Jagger" design in the posters***
+
+##### 🎸 ***Followed by iconic Gibson***® ***Flying V & Les Paul models I love doing + have many more in works (Strats, Teles, etc..)***
 
 Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
 
