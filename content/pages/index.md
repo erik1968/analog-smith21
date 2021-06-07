@@ -8,11 +8,12 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      ##### *>>> Hello, thank you for stopping by.. What can I help you with?
-      That's exactly why I started this site! 1st things 1st! I only ask that
-      you snoop around a little more and then I think that you will know what I
-      can help you with in the realms of: Visual + UX + Web + Photo + Music
-      related projects*
+      ##### *>>> Hello, and thanks for stopping by! I know your time is short so
+      I'll cut to the chase:: Let me help you w/your next project, be it::
+      Logos, Branding, General Graphic Design + Imagery, Biz Cards, Stickers,
+      Posters, Flyers, Signs; including >>> UX >> UI > Web Design,
+      Audio-Instrumental integration, Photographic, Package Design & Print
+      Production...*
 
 
       > *I have a lot of practice with + dig doing Re-Design & Re-mix projects*
