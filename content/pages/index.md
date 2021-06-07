@@ -9,7 +9,7 @@ sections:
 
 
       ##### >>> Hello, thank you for stopping by.. What can I help you with?
-      That's exactly why I started building this site: please snoop around a
+      That's exactly why I started this site! So, 1st:: Please snoop around a
       little more and you will know what I can help you with in the realms of:
       Visual + UX + Web + Photo + Music related projects
 
