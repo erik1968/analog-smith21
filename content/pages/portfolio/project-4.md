@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-> ###### I have all the content I need now, including brand new, studio quality (shot in new light tent) product photos of the revised and new surfrace printed packages.
+> ###### I have all the content I need now.. Stay tuned :)
 
 ###### Here's a short project presentation **with** the new product photos on Behance::
 
