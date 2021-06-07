@@ -5,10 +5,10 @@ thumb_image_alt: A pile of books on the table
 image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: Love of Desiging Guitars
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    This is the article (2?) this: "I love designing detailed guitars using the
+    creative tools we have in 2021!
   extra:
     - name: 'og:type'
       value: article
