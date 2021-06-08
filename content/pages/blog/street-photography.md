@@ -5,7 +5,7 @@ title: >-
 date: '2021-06-10'
 thumb_image: images/AnalogSmith_ChipKiddGoExs12_forBlogThumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/ChipKiddGoExercises_Grp7of7_190301_ess-20.png
+image: images/11_thumb.jpg
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: My 1st Trip in Abstraction
