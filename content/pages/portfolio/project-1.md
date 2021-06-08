@@ -47,11 +47,17 @@ layout: project
 
 As this was an early project in my UX training, I wanted to take a totally analog appliance through the redesign steps required to conceptually and visually transform its user-interface, i.e., operating buttons and dials, into a digital appliance interface.
 
-![](https://www.dropbox.com/s/ncs6xzfwph0j3it/UX1\_P4\_OsterToaster-ReDesn_LO-FI_SystemMap_ess.png?raw=1)
+![](https://www.dropbox.com/s/9rtub9qj9tq4a68/Project%202B%20-%20Toaster%20Oven%20Redesign.png?raw=1)
 
-![](https://www.dropbox.com/s/kkwrfaji944pjic/UX1\_P4\_OsterToaster-ReDesn_HI-FI-\_SystemMap_ess.png?raw=1)
+![](https://www.dropbox.com/s/zwp1lfs73248t59/Project%202C%20-%20Toaster%20Oven%20Redesign.png?raw=1)
+
+![](https://www.dropbox.com/s/nw6gq51nngfsd2c/P2%20Toaster%20Redesign%20LoFi%20Wireframes.png?raw=1)
+
+![](https://www.dropbox.com/s/jj2q5o65rlri9av/P2%20Toaster%20Redesign%20HiFi%20Wireframes.png?raw=1)
 
 ![](https://www.dropbox.com/s/fxulr9uhp58uwhw/Screen%20Shot%202021-06-03%20at%2012.39.29%20AM.png?raw=1)
+
+
 
 ![](https://www.dropbox.com/s/3isc10vz7pilciw/Screen%20Shot%202021-06-03%20at%2012.39.38%20AM.png?raw=1)
 
