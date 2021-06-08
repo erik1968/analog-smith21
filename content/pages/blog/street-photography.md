@@ -3,7 +3,7 @@ title: Will go with a different project here very soon...
 date: '2021-06-10'
 thumb_image: images/Bauhaus_WEBFLOW-2020-03.png
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/11_thumb.jpg
+image: images/Bauhaus_WEBFLOW-2020-03.png
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: My 1st Trip in Abstraction
