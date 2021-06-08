@@ -38,4 +38,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-#### *I have a few projects that would be better in the blog. I want to share one of the photography projects and planning on doing a new round of architecture shoots downtown again, sometime this month/June...*
+*The poster above was originally just construction paper. I "digitized" it last in Portfolio 493. *
+
+##### *I have a few projects that would be better in the blog. I want to share one of the photography projects and planning on doing a new round of architecture shoots downtown again, sometime this month/June...*
