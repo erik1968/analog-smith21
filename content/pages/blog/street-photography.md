@@ -40,4 +40,4 @@ layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-> The poster above was originally plain, old construction paper (11x17" sheet). So — Note to Self — why not have some fun with it and “digitize” it as I absolutely love to do! *Well, not everyone thinks like you do Erik and may not appreciate what it is you are trying to do..*
+> The poster above was originally plain, old construction paper (11x17" sheet). 
