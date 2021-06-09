@@ -40,6 +40,8 @@ layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-> The poster above was originally just construction paper. I digitized, and didn't.. What? No, I just tried to make it look at real as the original full size poster w/textures and the tools.
+The poster above was originally totally analog >>> sketched, ruled, squared & then cut-out in construction paper in layered sheets over an 11"x17" sheet background sheet
 
-##### *I have a few projects that would be better in the blog. I want to share one of the photography projects and planning on doing a new round of architecture shoots downtown again, sometime this month/June...*
+> *But, it got a lot funner when I had the chance to "digitize" it... Or, not? Yeah, so, I digitized it with the full intention of making it look as real / analog as possible because I absolutely love doing stuff like this.*
+
+And, It's good practice, you get to explore so many different options in terms of the look + feel >> different surface textures and more..No matter if anyone likes it:: for me, it's great practice!
