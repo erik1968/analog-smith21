@@ -44,4 +44,4 @@ The poster above was originally totally analog >>> sketched, ruled, squared & th
 
 > *But, it got a lot funner when I had the chance to "digitize" it... Or, not? Yeah, so, I digitized it with the full intention of making it look as real / analog as possible because I absolutely love doing stuff like this.*
 
-###### And, It's good practice, you get to explore so many different options in terms of the look + feel >> different surface textures and more..No matter if anyone likes it:: for me, it's great practice!
+And, It's good practice, you get to explore so many different options in terms of the look + feel >> different surface textures and more..No matter if anyone likes it:: for me, it's great practice!
