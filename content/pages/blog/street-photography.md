@@ -39,5 +39,3 @@ seo:
 layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
-
-***The poster above was originally just construction paper >> 11x17". I digitized, and didn't.. What? No, I just tried to make it look as real as the original full size poster w/textures and the graphic design tools we have at our disposal 24/7 >>> because that's what I like to do...***
