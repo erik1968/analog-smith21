@@ -40,4 +40,4 @@ layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-> The poster above was originally plain, old construction paper >> 11x17". So, why not have some fun with it and “digitize” it as I absolutely love to do! I really like to make seemingly ordinary lookin images and creations in the physical / analog realms of this 3D holographic reality and then exact its due justice in our extended, increasingly ever-present: digital realm. So, I digitized it!! And, at the same time >> I did not! [ please bear with me >> it will make sense after I explain ]
+> The poster above was originally plain, old construction paper (11x17" sheet). So, why not have some fun with it and “digitize” it as I absolutely love to do! I really like to make seemingly ordinary lookin images and creations in the physical / analog realms of this 3D holographic reality and then exact its due justice in our extended, increasingly ever-present: digital realm. So, I digitized it!! And, at the same time >> I did not! \[ please bear with me >> it will make sense after I explain ]
