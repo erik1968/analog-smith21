@@ -40,5 +40,4 @@ layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-The poster above was originally cut + pasted >> quite literally w/plain, old construction paper, some low tack glue on an 11" x 17" thick card-stock background.
-
+The poster above was originally drafted w/pencil + square + rulers, and then cut-out ut of plain, old construction paper, some low tack glue on an 11" x 17" thick card-stock background.
