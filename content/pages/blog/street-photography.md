@@ -40,6 +40,6 @@ layout: post
 ---
 *\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-> The poster above was originally just construction paper. I digitized, and didn't.. What? No, I just tried to make it look at real as the original full size poster w/textures and the tools.
+> *The poster above was originally just construction paper >> 11x17". I digitized, and didn't.. What? No, I just tried to make it look as real as the original full size poster w/textures and the tools because that's what I like to do...*
 
 ##### *I have a few projects that would be better in the blog. I want to share one of the photography projects and planning on doing a new round of architecture shoots downtown again, sometime this month/June...*
