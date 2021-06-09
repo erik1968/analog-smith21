@@ -15,7 +15,7 @@ sections:
       Print Production...***
 
 
-      > *I have a lot of practice with Re-Design & Re-mix projects*
+      > *I have practice with Re-Design & Re-mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
