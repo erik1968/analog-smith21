@@ -38,8 +38,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
-*\[ Bauhaus inspirect poster translation from History of Design, Fall 2018 ]*
+*\[ Bauhaus inspired posters from History of Design, Fall 2018 ]*
 
-> The poster above was originally just construction paper. I digitized, and didn't.. What? No, I just tried to make it look at real as the original full size poster w/textures and the tools. 
+> The poster above was originally just construction paper. I digitized, and didn't.. What? No, I just tried to make it look at real as the original full size poster w/textures and the tools.
 
 ##### *I have a few projects that would be better in the blog. I want to share one of the photography projects and planning on doing a new round of architecture shoots downtown again, sometime this month/June...*
