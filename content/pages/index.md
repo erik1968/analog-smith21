@@ -8,10 +8,10 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      BLUF: *Bottomline Up Front: So, here's the plan >> this website is
-      TEMPORARY.. I have a much more appropriate site theme (by Stackbit who are
-      AWESOME! love their UX, UI) pegged & will have the best of the content
-      here transferred to that theme ASAP...*
+      *BLUF: Bottomline Up Front:: So, here's the plan >> this website is
+      TEMPORARY as I have a much more appropriate site (by Stackbit as their
+      UX/UI = Awesome!) to host my content & portfolio. This will happen very
+      soon.. Stay tuned if you are following me...*
 
 
       ##### ***>>> Hello, and thanks for stopping by! Let me help you w/your
