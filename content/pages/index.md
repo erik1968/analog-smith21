@@ -19,9 +19,6 @@ sections:
       Biz Cards, Stickers, Posters, Flyers, Signs; including >>> UX >> UI > Web
       Design, Audio-Instrumental integration, Photographic, Package Design &
       Print Production...***
-
-
-      > *I have practice with Re-Design & Re-mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
