@@ -8,12 +8,10 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      *BLUF: Bottomline Up Front: So, here's the rub >> this WEBSITE is a result
-      of my Visual Design Program requirements & NOT what I want to have for my
-      real-world site or portfolio. I had to come up with something like this
-      ok. That being said, I have a better, more "Erik S" type groove coming up
-      that truly represents who I am and what I can do for you design or
-      music-wise...*
+      ***BLUF: **Bottomline Up Front: So, here's the plan >> this website is
+      TEMPORARY.. I have a much more appropriate site theme (by Stackbit who are
+      AWESOME! love their UX, UI) pegged & will have the best of the content
+      here transferred to that theme ASAP...*
 
 
       ##### ***>>> Hello, and thanks for stopping by! Let me help you w/your
