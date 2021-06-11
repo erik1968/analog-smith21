@@ -8,7 +8,7 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      ***BLUF: **Bottomline Up Front: So, here's the plan >> this website is
+      BLUF: *Bottomline Up Front: So, here's the plan >> this website is
       TEMPORARY.. I have a much more appropriate site theme (by Stackbit who are
       AWESOME! love their UX, UI) pegged & will have the best of the content
       here transferred to that theme ASAP...*
