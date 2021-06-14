@@ -39,9 +39,13 @@ seo:
 layout: post
 date: '2021-05-30'
 ---
-> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars.*
+> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars*
 
-![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?raw=1)
+
+
+![](https://www.dropbox.com/s/ktgnd1anyjt70jl/P4\__Fender-1968Jaguar_V3\_Poster2-Revised-08%20copy.png?raw=1)
+
+
 
 ![](https://www.dropbox.com/s/ohh1jzdroo1vys8/P4\__Fender-JaguarNewConceptModel-V2\_Poster1-FIXED-04.png?raw=1)
 
@@ -77,4 +81,4 @@ Here's a few examples from my Figma experiments w/these Guitar Design Templates 
 
 #### **⚡🎸** ***Some Guitar Favicons*** ⚡🎸
 
-![](https://www.dropbox.com/s/i7ubp28qfgcnhph/ESS_FAVICONS_FigmaGuitarProject\_2020.png?raw=1)
+![](https://www.dropbox.com/s/i7ubp28qfgcnhph/ESS_FAVICONS_FigmaGuitarProject\_2020.png?raw=1)![](https://www.dropbox.com/s/ktgnd1anyjt70jl/P4\__Fender-1968Jaguar_V3\_Poster2-Revised-08%20copy.png?raw=1)
