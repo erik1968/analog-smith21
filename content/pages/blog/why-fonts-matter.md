@@ -1,6 +1,6 @@
 ---
 title: "I love designing detailed guitars using the creative tools we have \U0001F3B8"
-thumb_image: images/polite-potato.png
+thumb_image: images/P4__Fender-1968Jaguar_V3_Poster2-forSiteAS.png
 thumb_image_alt: A pile of books on the table
 image: images/P4_FenderGTR-ConceptualModel_byESS_Smaller.png
 image_alt: A pile of books on the table
@@ -39,11 +39,13 @@ seo:
 layout: post
 date: '2021-05-30'
 ---
-> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars.*
+> *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars*
 
-![](https://www.dropbox.com/s/b75ov6kmu6s8956/enthusiastic-pluto.png?raw=1)
+![](https://www.dropbox.com/s/ktgnd1anyjt70jl/P4\__Fender-1968Jaguar_V3\_Poster2-Revised-08%20copy.png?raw=1)
 
-![](https://www.dropbox.com/s/ohh1jzdroo1vys8/P4\__Fender-JaguarNewConceptModel-V2\_Poster1-FIXED-04.png?raw=1)
+
+
+![](https://www.dropbox.com/s/hoh0uznce6fu566/P4\__Fender-1968Jaguar-Redesn-V3\_Poster1-Revised-04%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
