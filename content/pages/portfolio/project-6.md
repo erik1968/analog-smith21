@@ -38,7 +38,7 @@ title: Visual Design > Foundations
 ---
 ### **>>> ESSENTIALS >> HISTORY OF DESIGN >**
 
-### ![](/images/pink-sloth.png)
+***
 
 ### **>> Essentials:: Layout & Grid**
 
