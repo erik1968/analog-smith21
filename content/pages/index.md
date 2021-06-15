@@ -13,6 +13,9 @@ sections:
       Cards, Stickers, Posters, Flyers, Signs; including >>> UX >> UI > Web
       Design, Audio-Instrumental integration, Photographic, Package Design &
       Print Production...***
+
+
+      > *I have more practice with Re-Designs & Re-Mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
