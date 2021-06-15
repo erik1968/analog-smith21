@@ -38,7 +38,7 @@ title: Visual Design > Foundations
 ---
 ### **>>> ESSENTIALS >> HISTORY OF DESIGN >**
 
-###
+****
 
 ### **>> Essentials:: Layout & Grid**
 
