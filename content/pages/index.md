@@ -8,7 +8,7 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      *Sorry things are not complete > dealing w/life...*
+      *My content is not complete as I am trying to decide how to present...*
 
 
       ***>>> Hello, and thanks for stopping by! Let me help you w/your next
