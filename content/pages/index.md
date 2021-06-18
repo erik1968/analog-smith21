@@ -8,6 +8,9 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
+      *Sorry things are not complete > dealing w/life...*
+
+
       ***>>> Hello, and thanks for stopping by! Let me help you w/your next
       project, be it:: Logos, Branding, General Graphic Design + Imagery, Biz
       Cards, Stickers, Posters, Flyers, Signs; including >>> UX >> UI > Web
