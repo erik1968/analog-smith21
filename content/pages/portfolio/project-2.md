@@ -65,7 +65,7 @@ So, the triangle shaped game packaging as of 2017 was retained, except for the b
 
 ###### *But, when it came time to create a 3D mockup a real problem had to to be solved: how to handle the costs of producing the new hexagon shaped instructions + half-a-dozen triangular magnetic game “board” sheets? If I kept the orignal size scale, the magnets alone could kill this project*
 
-> **I remember thinking: why didn’t I catch this?!**
+> *I remember thinking: why didn’t I catch this?!*
 
 Well, I know the reason and I will make that confession at the end/lessons learned slide. At any rate, I looked at my options and decided to do the right thing: Keep it Simpler, \*i.e, the simplest solution is often the best >> note to self!  \*So, I changed the instructions, game board and tiles/pieces to a more compact, portable and player-friendly design in unsteady, bumpy situations like turbulence on a long flight, or a windy day at the park.[﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
