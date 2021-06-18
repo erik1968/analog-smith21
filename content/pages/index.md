@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
+      ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)******
 
 
       ***>>> Hello, and thanks for stopping by! Let me help you w/your next
@@ -13,9 +13,6 @@ sections:
       Cards, Stickers, Posters, Flyers, Signs; including >>> UX >> UI > Web
       Design, Audio-Instrumental integration, Photographic, Package Design &
       Print Production...***
-
-
-      > *I have more practice with Re-Designs & Re-Mix projects*
     actions:
       - label: Reach out >>>
         url: /contact
