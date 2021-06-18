@@ -8,14 +8,11 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      *My content is not complete as I am trying to decide how to present...*
-
-
       ***>>> Hello, and thanks for stopping by! Let me help you w/your next
-      project, be it:: Logos, Branding, General Graphic Design + Imagery, Biz
-      Cards, Stickers, Posters, Flyers, Signs; including >>> UX >> UI > Web
-      Design, Audio-Instrumental integration, Photographic, Package Design &
-      Print Production...***
+      project >>  Logos, Branding, General Graphic Design + Imagery, Biz Cards,
+      Stickers, Posters, Flyers, Signs; And >>> UX >> UI > Web Design,
+      Audio-Instrumental integration, Photographic, Package Design & Print
+      Production...***
     actions:
       - label: Reach out >>>
         url: /contact
