@@ -32,7 +32,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: project
-image: images/AnalogSmith_NOW-2021_WebflowLove_20210619.png
+image: images/AS_2nd-SiteDevProject_2020_ess.png
 ---
 My first 'coded' work was for a[ **movie trailer cover**](https://erik1968.github.io/movie-trailer/), then a more animated attempt at a[ **Google Doodle**](https://erik1968.github.io/google-doodle/). I has happy with the movie trailer, but not so much with the Google Doodle as I wanted to use javascript to do a lot more with it, but was not there training/proficiency-wise yet... And, not likely a sequel to any of these as its as far as anyone should go with something like this in my opinion.
 
