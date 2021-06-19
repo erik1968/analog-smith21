@@ -34,7 +34,7 @@ seo:
 layout: project
 image: images/AnalogSmith_NOW-2021_WebflowLove_20210619.png
 ---
-##### So, in Web 1 training, we began with a combo of code-only developing on one training stream, and a "visual"/GUI-based method. For GUI we used[ **Webflow**](https://webflow.com/) \[ref: cover image above from[ ** my first site using their CMS here**](https://analogsmith-xyz-dffb39.webflow.io/)**.  **Coming from an IT background (USAF Cyber Systems), there was a GUI for everything so that was fine, but I appreciated the power + flexibility of coding *early-on* and made sure to stay on top of that throughout the certfication training at EWU.
+###### So, in Web 1 training, we began with a combo of code-only developing on one training stream, and a "visual"/GUI-based method. For GUI we used[ Webflow](https://webflow.com/) \[ref: cover image above from[ \*\* my first site using their CMS here\*\*](https://analogsmith-xyz-dffb39.webflow.io/)\*\*.  \*\*Coming from an IT background (USAF Cyber Systems), there was a GUI for everything so that was fine, but I appreciated the power + flexibility of coding *early-on* and made sure to stay on top of that throughout the certfication training at EWU.
 
 My first 'coded' work was for a[ **movie trailer cover**](https://erik1968.github.io/movie-trailer/), then a more animated attempt at a[ **Google Doodle**](https://erik1968.github.io/google-doodle/). I has happy with the movie trailer, but not so much with the Google Doodle as I wanted to use javascript to do a lot more with it, but was not there training/proficiency-wise yet... And, not likely a sequel to any of these as its as far as anyone should go with something like this in my opinion.
 
