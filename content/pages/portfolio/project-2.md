@@ -69,6 +69,8 @@ So, the triangle shaped game packaging as of 2017 was retained, except for the b
 
 Well, I know the reason and I will make that confession at the end/lessons learned slide. At any rate, I looked at my options and decided to do the right thing: Keep it Simpler, \*i.e, the simplest solution is often the best >> note to self!  \*So, I changed the instructions, game board and tiles/pieces to a more compact, portable and player-friendly design in unsteady, bumpy situations like turbulence on a long flight, or a windy day at the park.[﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
+![](https://www.dropbox.com/s/cltq2q0thnx3lwr/AS_Making-of-TriOminosReDesign%20copy.png?raw=1)
+
 [**Version 4 Below:  ▶️**](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
 [![](https://www.dropbox.com/s/n22cb25c8vhiplk/TriOminos%20Redesign%20\__%20GOLD%20Travel%20Edition%20V4%202021%20copy.png?raw=1)﻿﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
@@ -101,4 +103,4 @@ And, stayed tuned for the aptly named companion to ***Go Gold!*** with the ***Go
 
 [**\[ It's pretty much done check it out here ▶️ \]**](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
-![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)
+![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)![](https://www.dropbox.com/s/cltq2q0thnx3lwr/AS_Making-of-TriOminosReDesign%20copy.png?raw=1)
