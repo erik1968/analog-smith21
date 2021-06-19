@@ -1,5 +1,5 @@
 ---
-title: Project V > Web Design Fun!
+title: Web Dev + Design Fun
 subtitle: Early College Projects from User Experience & Web Design Certificate
 date: '2019-01-05'
 thumb_image: images/MovieTrailer_CaroselThumb.png
