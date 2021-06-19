@@ -34,11 +34,11 @@ seo:
 layout: project
 image: images/AnalogSmith_NOW-2021_WebflowLove_20210619.png
 ---
-
-
 My first 'coded' work was for a[ **movie trailer cover**](https://erik1968.github.io/movie-trailer/), then a more animated attempt at a[ **Google Doodle**](https://erik1968.github.io/google-doodle/). I has happy with the movie trailer, but not so much with the Google Doodle as I wanted to use javascript to do a lot more with it, but was not there training/proficiency-wise yet... And, not likely a sequel to any of these as its as far as anyone should go with something like this in my opinion.
 
+Long story shorter, I created a website using Webflow ( per course directions, etc, etc..), and it stands today because I really like how easy Webflow made it for "newbees" like me to build and publish their work. Period.
 
+### [**>>> My 1st Website**](https://analogsmith-xyz-dffb39.webflow.io/)
 
 ![](/images/MovieTrailer_SiteTrng_Web1\_2019\_ess%20smaller.png)
 
