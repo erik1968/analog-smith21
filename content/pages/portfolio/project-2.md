@@ -103,4 +103,4 @@ And, stayed tuned for the aptly named companion to ***Go Gold!*** with the ***Go
 
 [**\[ It's pretty much done check it out here ▶️ \]**](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
-![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)![](https://www.dropbox.com/s/cltq2q0thnx3lwr/AS_Making-of-TriOminosReDesign%20copy.png?raw=1)
+![](https://www.dropbox.com/s/46akbfgpujnxskd/3D%20Game%20Board%20Mockup%20%2B%20Instructions%20%28Interior%20Design%29-Smaller.png?raw=1)
