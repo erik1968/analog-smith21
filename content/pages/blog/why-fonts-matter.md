@@ -41,8 +41,6 @@ date: '2021-05-30'
 ---
 > *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars*
 
-
-
 ![](https://www.dropbox.com/s/hoh0uznce6fu566/P4\__Fender-1968Jaguar-Redesn-V3\_Poster1-Revised-04%20copy.png?raw=1)
 
 ![](https://www.dropbox.com/s/7j8xbsmuobflybx/FENDER%20Guitars%20COPYRIGHT%20DISCLAIMER.png?raw=1)
@@ -61,9 +59,11 @@ Here’s some screenshots from those projects where I typically used Adobe Illus
 
 ![](https://www.dropbox.com/s/fba2e4y77aylvjg/Fender-Jaguar_Redesign_ScrnSht3.png?raw=1)
 
-![](https://www.dropbox.com/s/mh2d27wrthfsr2b/Fender-Jaguar_Redesign_ScrnSht2A.png?raw=1)
+
 
 Here's an example of how I *layer the guitar components* ***+ give every single piece a specific function-title*** before exporting from assets in Adobe Illustrator to Figma for further customizing/project integration *and* ***so it's easier to customize the guitars at the highest detail***  when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
+
+
 
 ![](https://www.dropbox.com/s/buemjnbe86qe8he/charming-chestnut.png?raw=1)
 
