@@ -51,19 +51,13 @@ The posters above were from a portfolio class, Spring 2020. Because I used a lot
 
 ##### 🎸 ***The first was a redesign of the 1968 Fender***® ***Jaguar***
 
-##### **🎸 *Next, was a re-imagined >> future version of the '68 Jaguar collaboration w/old guitarist friend that resulted in the more chiseled & minimal "Jagger" design in the posters***
-
 ##### 🎸 ***Followed by iconic Gibson***® ***Flying V & Les Paul models I love doing + have many more in works (Strats, Teles, etc..)***
 
 Here’s some screenshots from those projects where I typically used Adobe Illustrator to design every detail, layer by layer so every element of the guitars were customizable stylistically:
 
 ![](https://www.dropbox.com/s/fba2e4y77aylvjg/Fender-Jaguar_Redesign_ScrnSht3.png?raw=1)
 
-
-
 Here's an example of how I *layer the guitar components* ***+ give every single piece a specific function-title*** before exporting from assets in Adobe Illustrator to Figma for further customizing/project integration *and* ***so it's easier to customize the guitars at the highest detail***  when you export as assets from Adobe Illustrator to a prototyping tool like Figma:
-
-
 
 ![](https://www.dropbox.com/s/buemjnbe86qe8he/charming-chestnut.png?raw=1)
 
