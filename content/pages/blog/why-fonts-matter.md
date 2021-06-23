@@ -61,9 +61,9 @@ Here's an example of how I *layer the guitar components* ***+ give every single 
 
 ![](https://www.dropbox.com/s/buemjnbe86qe8he/charming-chestnut.png?raw=1)
 
+![](https://www.dropbox.com/s/k62hvv2b1t6ns51/FlyingV_FigmaExample_AS-Portfolio\_2021.png?raw=1)
 
-
-Here's a few examples from my Figma experiments w/these Guitar Design Templates I created to be fully customizable svg/eps files:
+Here's a few examples from some Figma experiments w/these guitar design-templates made to be fully customizable svg/eps/ai files:
 
 ![](https://www.dropbox.com/s/9147ceoda561n73/Frame%20for%20%283%29%20Gibson%20LP%20Themes.png?raw=1)
 
