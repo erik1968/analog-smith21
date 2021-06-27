@@ -44,7 +44,7 @@ layout: project
 
 ![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
 
-### ![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)****
+### ![](https://www.dropbox.com/s/cohghs3oz90hj8w/Eddie%20Van%20Halen%20COPYRIGHT%20DISCLAIMER.png?raw=1)
 
 ### **Here's a full view of the project::**
 
