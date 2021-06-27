@@ -91,7 +91,7 @@ Well, I know the reason and I will make that confession at the end/lessons learn
 
 ***Links to this entire Project in Figma::***
 
-[UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)
+[UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
 [UX2 P1 V4 Game Redesign | SILVER Travel Edition](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
 
