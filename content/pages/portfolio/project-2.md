@@ -91,11 +91,11 @@ Well, I know the reason and I will make that confession at the end/lessons learn
 
 ***Links to this entire Project in Figma::***
 
-[UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
+[*UX2 P1 V4 Game Redesign | GOLD Travel Edition*](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
-[UX2 P1 V4 Game Redesign | SILVER Travel Edition](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
+**[*UX2 P1 V4 Game Redesign | SILVER Travel Edition*](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)**
 
-[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
+**[*UX2 P1 | V1 + V2 | Board Game \[TriOminos\] RedesignUX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign*](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
 ![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿
 
