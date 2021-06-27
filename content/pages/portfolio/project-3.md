@@ -38,7 +38,11 @@ layout: project
 
 ![](/images/P3%20GTR-FX-MobileApp_TributeEVH\_2020ess.png)
 
-###### [Here's a screenshot from the early phase/Lo-FI Wireframes **this project in Figma**:](https://www.figma.com/file/kOnIMhtyVQddkob8GHpEsm/UX-2-Proj-3-Guitar-Sim-App-EVH-FX-Pkg?node-id=0%3A1)
+
+
+#### **Here's a screenshot from the earlier phases leading up to the "Lo-Fi" wireframes:**
+
+\>>> Using the prototyping tool FIGMA®️
 
 ![](/images/UX2-P3\_Gtr-Amp-Emulate-APP-LO-FI-Prototype.png)
 
