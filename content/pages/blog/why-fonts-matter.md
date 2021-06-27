@@ -37,7 +37,7 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: post
-date: '2021-05-30'
+date: '2021-06-27'
 ---
 > *This is where I can share my guitar influences and how it inspires my work. Furthermore, how I think that every UX/UI designer should pick up this instrument in order to fully appreciate and learn hands-on how you too as a designer can create similar user experience + interactions by following the essential principles and practices of modern UX & UI design that are manifest + inherent in the design of guitars*
 
