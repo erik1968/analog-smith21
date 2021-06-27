@@ -53,11 +53,9 @@ As this was an early project in my UX training, I wanted to take a totally analo
 
 ##### **Here's a link to this project in Figma if you'd like to see it::  UX 1 Winter 2020 >**
 
-[**>>> Lo-Fi + Decision Tree V1**](https://www.figma.com/file/VUpSnxUWE0EuUubUbpqy80/UX-1-Proj-4-Toaster-Convection-Oven-Redesign-Copy?node-id=236%3A6513)****
+[**>>> Lo-Fi + Decision Tree V1**](https://www.figma.com/file/VUpSnxUWE0EuUubUbpqy80/UX-1-Proj-4-Toaster-Convection-Oven-Redesign-Copy?node-id=236%3A6513)
 
 ![](https://www.dropbox.com/s/nw6gq51nngfsd2c/P2%20Toaster%20Redesign%20LoFi%20Wireframes.png?raw=1)
-
-
 
 ![](https://www.dropbox.com/s/jj2q5o65rlri9av/P2%20Toaster%20Redesign%20HiFi%20Wireframes.png?raw=1)
 
