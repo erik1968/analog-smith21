@@ -1,6 +1,6 @@
 ---
 title: Bauhaus posters in school are fun..
-date: '2021-06-10'
+date: '2021-06-27'
 thumb_image: images/BAUHUAS-100_ReDesign-Port493-200518_V2-RGB_small.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/Bauhaus_WEBFLOW-2020-03.png
