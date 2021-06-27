@@ -47,7 +47,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-# [﻿﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)**Deliverables ::**
+# [﻿﻿﻿](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)**Deliverables ::**
 
 **Improved Game Instructions**, and a funner, **more engaged game playing experience** with a **redesigned gaming platform** + new game pieces and a game playing surface for all situations, at home, on the road, whatever >> this deliverable must be a 3D tested solution...
 
@@ -57,7 +57,7 @@ layout: project
 
 The goal the from beginning was to improve the instructions and game playing experience. After discovery and some good research I initially went with an ***anniversary special edition*** with very similar graphics, type treatment and all to the original game release by PressmanToy® in 1968 \[see Triominos® Box versions photos archive near bottom of this page & in the Figma project links].
 
-#### [**Versions 1 & 2 Below:  ▶️**](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=1%3A68)
+#### [**Versions 1 & 2 Below:  ▶️**](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
 ﻿﻿﻿![](https://www.dropbox.com/s/bry1kxm2ska4sne/TriOminoes%20Redesign%20Special%20Annivers.%20Edition%20V2%202020%20copy.png?raw=1)
 
@@ -91,11 +91,11 @@ Well, I know the reason and I will make that confession at the end/lessons learn
 
 ***Links to this entire Project in Figma::***
 
-[UX2 P1 V4 Game Redesign | GOLD Travel Edition](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)
+[*UX2 P1 V4 Game Redesign | GOLD Travel Edition*](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=190%3A4075)
 
-[UX2 P1 V4 Game Redesign | SILVER Travel Edition](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)
+**[*UX2 P1 V4 Game Redesign | SILVER Travel Edition*](https://www.figma.com/file/ke8E3xLTEEyQZNPQcC9opS/UX2-P1-V4-Game-Redesign-SILVER-Travel-Edition?node-id=2%3A2)**
 
-[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)[UX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
+**[*UX2 P1 | V1 + V2 | Board Game \[TriOminos\] RedesignUX2 P1 | V1 + V2 | Board Game \[TriOminos\] Redesign*](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
 ![](https://www.dropbox.com/s/xe6gixf3gsvljrs/TriOminos%20COPYRIGHT%20DISCLAIMER.png?raw=1)﻿
 
