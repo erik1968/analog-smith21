@@ -63,6 +63,6 @@ As this was an early project in my UX training, I wanted to take a totally analo
 
 ###### ![](/images/Project%201D%20-%20Toaster%20Oven%20Redesign%20copy.png)
 
-###### Here's a link to this project in Figma if you'd like to see it::  UX 1 Winter 2020 > 
+###### Here's a link to this project in Figma if you'd like to see it::  UX 1 Winter 2020 >
 
-[**Project 4 > Toaster-Convection Oven Re-Design**](https://www.figma.com/file/5iIObWn9sAyKTmuzuOTDeM/UX-1-Proj-4-Toaster-Convection-Oven-Redesign?node-id=6%3A0)
+[**Project 1 > Toaster-Convection Oven Re-Design**](https://www.figma.com/file/5iIObWn9sAyKTmuzuOTDeM/UX-1-Proj-4-Toaster-Convection-Oven-Redesign?node-id=6%3A0)
