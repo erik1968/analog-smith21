@@ -47,7 +47,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-# [﻿﻿﻿](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)**Deliverables ::**
+# [﻿﻿﻿](https://www.figma.com/file/h1rRrCCOeIt5djBbc5nzK4/UX2-P1-V4-Game-Redesign-GOLD-Travel-Edition?node-id=2%3A2)**Deliverables ::**
 
 **Improved Game Instructions**, and a funner, **more engaged game playing experience** with a **redesigned gaming platform** + new game pieces and a game playing surface for all situations, at home, on the road, whatever >> this deliverable must be a 3D tested solution...
 
