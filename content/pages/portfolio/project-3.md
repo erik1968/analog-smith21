@@ -50,6 +50,10 @@ Here's a full view of the project in **FIGMA**®️ w/Prototype Wiring[ ](https:
 
 ![](/images/UX2-P3\_Gtr-FX-Amp_App_PrototypeWires\_2020ess.png)
 
+
+
+
+
 ![](https://www.dropbox.com/s/q8f0sfytwd9zcnj/EVH_Gtr-App-iPhoneX_ess_Card1.png?raw=1)
 
 ![](https://www.dropbox.com/s/3f9ft2qofvhk29i/EVH_Gtr-App-iPhoneX_ess_Card2%20copy.png?raw=1)
