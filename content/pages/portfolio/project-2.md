@@ -57,7 +57,7 @@ layout: project
 
 The goal the from beginning was to improve the instructions and game playing experience. After discovery and some good research I initially went with an ***anniversary special edition*** with very similar graphics, type treatment and all to the original game release by PressmanToy® in 1968 \[see Triominos® Box versions photos archive near bottom of this page & in the Figma project links].
 
-#### [**Versions 1 & 2 Below:  ▶️**](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=1%3A68)
+#### [**Versions 1 & 2 Below:  ▶️**](https://www.figma.com/file/YwHjBNuJeNuP3hJuCEBPMD/UX2-P1-V1-V2-Board-Game-TriOminos-Redesign?node-id=0%3A1)
 
 ﻿﻿﻿![](https://www.dropbox.com/s/bry1kxm2ska4sne/TriOminoes%20Redesign%20Special%20Annivers.%20Edition%20V2%202020%20copy.png?raw=1)
 
