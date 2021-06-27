@@ -67,7 +67,7 @@ sections:
       - label: Take some trips w/me >>>
         url: blog
         style: button
-    title: More project content coming soon >>>
+    title: Stay tuned plzzzz >>>
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
