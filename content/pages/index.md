@@ -8,11 +8,12 @@ sections:
       ##### ![](/images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
 
-      ***>>> Hello, and thanks for stopping by! Let me help you w/your next
-      project >>  Logos, Branding, General Graphic Design + Imagery, Biz Cards,
-      Stickers, Posters, Flyers, Signs; And >>> UX >> UI > Web Design,
-      Audio-Instrumental integration, Photographic, Package Design & Print
-      Production...***
+      ***Hello, I'm currently developing a new site to host my portfolio, other
+      works and a blog**. So, this site hosts some of my favorite UX design
+      projects from school. The new site will host a more robust portfolio with
+      a greater variety of works, e.g., graphics and branding type work,
+      typographic, UX/UI, web design, photographic, package and production
+      design works.*
     actions:
       - label: Reach out >>>
         url: /contact
