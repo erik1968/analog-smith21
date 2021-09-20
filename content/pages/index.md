@@ -67,10 +67,7 @@ sections:
     type: section_posts
     posts_number: 2
     col_number: two
-    actions:
-      - label: Take some trips w/me >>>
-        url: blog
-        style: button
+    actions: []
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
