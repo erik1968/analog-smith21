@@ -1,6 +1,5 @@
 ---
 title: Web Design Training
-subtitle: Early College Projects from User Experience & Web Design Certificate
 date: '2019-01-05'
 thumb_image: images/MovieTrailer_CaroselThumb.png
 thumb_image_alt: A white gamepad on a green background
