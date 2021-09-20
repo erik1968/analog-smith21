@@ -1,5 +1,4 @@
 ---
-title: "I love designing detailed guitars using the creative tools we have \U0001F3B8"
 thumb_image: images/P4__Fender-1968Jaguar_V3_Poster2-forSiteAS.png
 thumb_image_alt: A pile of books on the table
 image: images/P4__Fender-Redesn-of_1968Jaguar_V3_ess.png
