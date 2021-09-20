@@ -31,7 +31,3 @@ seo:
       relativeUrl: true
 layout: project
 ---
-###
-
-
-
