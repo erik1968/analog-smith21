@@ -4,19 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >
+    content: |
       ![](images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
-
-      ###### *Hello, I'm currently developing a new site to host my portfolio,
-      other works and a blog. So, this site hosts some of my favorite UX design
-      projects from school. The new site will host a more robust portfolio with
-      a greater variety of works, e.g., graphics and branding type work,
-      typographic, UX/UI, web design, photographic, package and production
-      design works.*
-
-
-      ###### *When it's ready, this site will re-direct to the new site.*
+      ###### **
     actions:
       - label: Reach out >>>
         url: /contact
