@@ -7,7 +7,7 @@ sections:
     content: |
       ![](images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
 
-      ###### **
+      ######
     actions:
       - label: Reach out >>>
         url: /contact
