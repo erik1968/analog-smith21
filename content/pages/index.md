@@ -36,7 +36,7 @@ sections:
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
       Music Solutions...
-  - section_id: testimonials
+  - section_id: testimonialsssssssssss
     type: section_testimonials
     title: What on your mind?!
     subtitle: Huh?
