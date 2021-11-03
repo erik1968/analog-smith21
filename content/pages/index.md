@@ -38,7 +38,6 @@ sections:
       Music Solutions...
   - section_id: testimonials
     type: section_testimonials
-    subtitle: Huh?
     col_number: three
     testimonials:
       - author: Jay-Jay
