@@ -45,7 +45,7 @@ sections:
       - author: Jay-Jay
         avatar: images/JJ.jpeg
         avatar_alt: JJ's happy pic w/funny ears
-        content: My mommy does this to me sometimes..
+        content: My mommy does this to me sometimes..w
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
