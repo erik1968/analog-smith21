@@ -40,10 +40,6 @@ sections:
     type: section_testimonials
     col_number: three
     testimonials:
-      - author: Sammy
-        avatar: images/Sammy.jpeg
-        avatar_alt: Aubrey Hoover's photo
-        content: Chillin like a villain
       - author: Stella
         avatar: images/amazing-lettuce.jpeg
         avatar_alt: Deegan Wallace's photo
