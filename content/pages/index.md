@@ -39,11 +39,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     col_number: three
-    testimonials:
-      - author: Stella
-        avatar: images/amazing-lettuce.jpeg
-        avatar_alt: Deegan Wallace's photo
-        content: Yummy!
+    testimonials: []
   - section_id: latest-posts
     type: section_posts
     posts_number: 2
