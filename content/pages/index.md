@@ -40,10 +40,6 @@ sections:
     type: section_testimonials
     col_number: three
     testimonials:
-      - author: Jay-Jay
-        avatar: images/JJ.jpeg
-        avatar_alt: JJ's happy pic w/funny ears
-        content: Huh?
       - author: Sammy
         avatar: images/Sammy.jpeg
         avatar_alt: Aubrey Hoover's photo
