@@ -30,6 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-My name is Erik S. I live near Spokane, Washington and recently completed the Visual Comm Design BDes + UX/Web Training Certificate program at Eastern Washington University (class of '21). This web site template was my first out the gate after graduation and have since completed two successfuly freelance projects, and working up as many portfolio-ready projects as I can while balancing time w/projects on the home-front, homeschooling our daughter, and spending time w/family.
+My name is Erik S. I live near Spokane, Washington and recently completed the Visual Comm Design BDes + UX/Web Training Certificate program at Eastern Washington University (class of '21). This web site template was my first out the gate after graduation. Since then, I've maintained proficiency w/the tools, completed successful freelance projects, and now working up those + as many portfolio-ready projects as I can while balancing time w/projects at our rural home-front, homeschooling our daughter, networking and spending time w/friends, colleagues & family.
 
-Soon, this URL will re-direct to a new site I have been developing for some time now that will more accurately host & reflect my style, personality and works. Please come back in December.
+Soon, this URL will re-direct to a new site I have been developing for some time now that will more accurately host & reflect my style, personality and works. Please come back in >>> December '21...
