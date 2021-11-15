@@ -1,8 +1,6 @@
 ---
 title: '> To be continued in new site'
-subtitle: >-
-  >> For now, these are the projects than can best describe visually my design
-  processes...
+subtitle: '>> ETA til new site cut-over:: early December 2021'
 hide_title: false
 col_number: three
 seo:
