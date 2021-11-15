@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     content: |
-      ![](images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
-
-      ######
+      ###### ![](images/Erik_AS_CompleteLogo_v5-2021ess\_800x800.png)
     actions:
       - label: Reach out >>>
         url: /contact
