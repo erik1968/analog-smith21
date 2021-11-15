@@ -1,5 +1,5 @@
 ---
-title: UX + Web Portfolio
+title: User Experience Design Projects
 subtitle: 2018 to present...
 layout_style: mosaic
 seo:
