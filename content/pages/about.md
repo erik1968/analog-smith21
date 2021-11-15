@@ -1,5 +1,5 @@
 ---
-subtitle: This is a short page about us and our work.
+subtitle: About Erik coming soon on a new site theme...
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
