@@ -1,6 +1,6 @@
 ---
 subtitle: About Erik coming soon on a new site theme...
-image: images/about.jpg
+image: images/ErikS_1stCMS-Portfolio-Site_Webflow_2019ess.png
 image_alt: A man taking a picture
 seo:
   title: About Us
