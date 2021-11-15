@@ -32,7 +32,6 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: project
-title: Visual Design > Foundations
 ---
 ### ****
 
