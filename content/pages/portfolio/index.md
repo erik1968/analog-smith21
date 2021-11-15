@@ -1,5 +1,5 @@
 ---
-title: Visual + UX + Web Portfolio
+title: UX + Web Portfolio
 subtitle: 2018 to present...
 layout_style: mosaic
 seo:
