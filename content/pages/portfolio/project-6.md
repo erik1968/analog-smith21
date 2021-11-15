@@ -4,7 +4,6 @@ subtitle: >-
   info-graphics, photographic content projects, and more...
 date: '2018-12-18'
 thumb_image_alt: A handheld game console on a yellow background
-image: images/AnalogSmith_HistoryOfWriting_Poster.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
