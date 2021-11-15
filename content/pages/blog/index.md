@@ -1,5 +1,5 @@
 ---
-title: '>>> The What + How Journal :: Project Walk-Thrus :: Inspiration'
+title: '> To be continued in new site'
 subtitle: >-
   >> For now, these are the projects than can best describe visually my design
   processes...
