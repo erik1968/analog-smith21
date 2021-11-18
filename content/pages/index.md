@@ -38,11 +38,6 @@ sections:
     type: section_testimonials
     col_number: three
     testimonials: []
-  - section_id: latest-posts
-    type: section_posts
-    posts_number: 2
-    col_number: two
-    actions: []
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
