@@ -34,10 +34,6 @@ sections:
     subtitle: >-
       Studio for >> Re-Mix > Re-Designs + Photo Content Creation + UX/UI + Web +
       Music Solutions...
-  - section_id: testimonials
-    type: section_testimonials
-    col_number: three
-    testimonials: []
 seo:
   title: Analog Smith Design
   description: The preview of the Exto theme
